@@ -1,0 +1,4987 @@
+[
+  {
+    "code": "11-1011.00",
+    "title": "Chief Executives",
+    "label": "11-1011.00 Chief Executives"
+  },
+  {
+    "code": "11-1011.03",
+    "title": "Chief Sustainability Officers",
+    "label": "11-1011.03 Chief Sustainability Officers"
+  },
+  {
+    "code": "11-1021.00",
+    "title": "General and Operations Managers",
+    "label": "11-1021.00 General and Operations Managers"
+  },
+  {
+    "code": "11-1031.00",
+    "title": "Legislators",
+    "label": "11-1031.00 Legislators"
+  },
+  {
+    "code": "11-2011.00",
+    "title": "Advertising and Promotions Managers",
+    "label": "11-2011.00 Advertising and Promotions Managers"
+  },
+  {
+    "code": "11-2021.00",
+    "title": "Marketing Managers",
+    "label": "11-2021.00 Marketing Managers"
+  },
+  {
+    "code": "11-2022.00",
+    "title": "Sales Managers",
+    "label": "11-2022.00 Sales Managers"
+  },
+  {
+    "code": "11-2032.00",
+    "title": "Public Relations Managers",
+    "label": "11-2032.00 Public Relations Managers"
+  },
+  {
+    "code": "11-2033.00",
+    "title": "Fundraising Managers",
+    "label": "11-2033.00 Fundraising Managers"
+  },
+  {
+    "code": "11-3012.00",
+    "title": "Administrative Services Managers",
+    "label": "11-3012.00 Administrative Services Managers"
+  },
+  {
+    "code": "11-3013.00",
+    "title": "Facilities Managers",
+    "label": "11-3013.00 Facilities Managers"
+  },
+  {
+    "code": "11-3013.01",
+    "title": "Security Managers",
+    "label": "11-3013.01 Security Managers"
+  },
+  {
+    "code": "11-3021.00",
+    "title": "Computer and Information Systems Managers",
+    "label": "11-3021.00 Computer and Information Systems Managers"
+  },
+  {
+    "code": "11-3031.00",
+    "title": "Financial Managers",
+    "label": "11-3031.00 Financial Managers"
+  },
+  {
+    "code": "11-3031.01",
+    "title": "Treasurers and Controllers",
+    "label": "11-3031.01 Treasurers and Controllers"
+  },
+  {
+    "code": "11-3031.03",
+    "title": "Investment Fund Managers",
+    "label": "11-3031.03 Investment Fund Managers"
+  },
+  {
+    "code": "11-3051.00",
+    "title": "Industrial Production Managers",
+    "label": "11-3051.00 Industrial Production Managers"
+  },
+  {
+    "code": "11-3051.01",
+    "title": "Quality Control Systems Managers",
+    "label": "11-3051.01 Quality Control Systems Managers"
+  },
+  {
+    "code": "11-3051.02",
+    "title": "Geothermal Production Managers",
+    "label": "11-3051.02 Geothermal Production Managers"
+  },
+  {
+    "code": "11-3051.03",
+    "title": "Biofuels Production Managers",
+    "label": "11-3051.03 Biofuels Production Managers"
+  },
+  {
+    "code": "11-3051.04",
+    "title": "Biomass Power Plant Managers",
+    "label": "11-3051.04 Biomass Power Plant Managers"
+  },
+  {
+    "code": "11-3051.06",
+    "title": "Hydroelectric Production Managers",
+    "label": "11-3051.06 Hydroelectric Production Managers"
+  },
+  {
+    "code": "11-3061.00",
+    "title": "Purchasing Managers",
+    "label": "11-3061.00 Purchasing Managers"
+  },
+  {
+    "code": "11-3071.00",
+    "title": "Transportation  Storage  and Distribution Managers",
+    "label": "11-3071.00 Transportation  Storage  and Distribution Managers"
+  },
+  {
+    "code": "11-3071.04",
+    "title": "Supply Chain Managers",
+    "label": "11-3071.04 Supply Chain Managers"
+  },
+  {
+    "code": "11-3111.00",
+    "title": "Compensation and Benefits Managers",
+    "label": "11-3111.00 Compensation and Benefits Managers"
+  },
+  {
+    "code": "11-3121.00",
+    "title": "Human Resources Managers",
+    "label": "11-3121.00 Human Resources Managers"
+  },
+  {
+    "code": "11-3131.00",
+    "title": "Training and Development Managers",
+    "label": "11-3131.00 Training and Development Managers"
+  },
+  {
+    "code": "11-9013.00",
+    "title": "Farmers  Ranchers  and Other Agricultural Managers",
+    "label": "11-9013.00 Farmers  Ranchers  and Other Agricultural Managers"
+  },
+  {
+    "code": "11-9021.00",
+    "title": "Construction Managers",
+    "label": "11-9021.00 Construction Managers"
+  },
+  {
+    "code": "11-9031.00",
+    "title": "Education and Childcare Administrators  Preschool and Daycare",
+    "label": "11-9031.00 Education and Childcare Administrators  Preschool and Daycare"
+  },
+  {
+    "code": "11-9032.00",
+    "title": "Education Administrators  Kindergarten through Secondary",
+    "label": "11-9032.00 Education Administrators  Kindergarten through Secondary"
+  },
+  {
+    "code": "11-9033.00",
+    "title": "Education Administrators  Postsecondary",
+    "label": "11-9033.00 Education Administrators  Postsecondary"
+  },
+  {
+    "code": "11-9039.00",
+    "title": "Education Administrators  All Other",
+    "label": "11-9039.00 Education Administrators  All Other"
+  },
+  {
+    "code": "11-9041.00",
+    "title": "Architectural and Engineering Managers",
+    "label": "11-9041.00 Architectural and Engineering Managers"
+  },
+  {
+    "code": "11-9041.01",
+    "title": "Biofuels-Biodiesel Technology and Product Development Managers",
+    "label": "11-9041.01 Biofuels-Biodiesel Technology and Product Development Managers"
+  },
+  {
+    "code": "11-9051.00",
+    "title": "Food Service Managers",
+    "label": "11-9051.00 Food Service Managers"
+  },
+  {
+    "code": "11-9071.00",
+    "title": "Gambling Managers",
+    "label": "11-9071.00 Gambling Managers"
+  },
+  {
+    "code": "11-9072.00",
+    "title": "Entertainment and Recreation Managers  Except Gambling",
+    "label": "11-9072.00 Entertainment and Recreation Managers  Except Gambling"
+  },
+  {
+    "code": "11-9081.00",
+    "title": "Lodging Managers",
+    "label": "11-9081.00 Lodging Managers"
+  },
+  {
+    "code": "11-9111.00",
+    "title": "Medical and Health Services Managers",
+    "label": "11-9111.00 Medical and Health Services Managers"
+  },
+  {
+    "code": "11-9121.00",
+    "title": "Natural Sciences Managers",
+    "label": "11-9121.00 Natural Sciences Managers"
+  },
+  {
+    "code": "11-9121.01",
+    "title": "Clinical Research Coordinators",
+    "label": "11-9121.01 Clinical Research Coordinators"
+  },
+  {
+    "code": "11-9121.02",
+    "title": "Water Resource Specialists",
+    "label": "11-9121.02 Water Resource Specialists"
+  },
+  {
+    "code": "11-9131.00",
+    "title": "Postmasters and Mail Superintendents",
+    "label": "11-9131.00 Postmasters and Mail Superintendents"
+  },
+  {
+    "code": "11-9141.00",
+    "title": "Property  Real Estate  and Community Association Managers",
+    "label": "11-9141.00 Property  Real Estate  and Community Association Managers"
+  },
+  {
+    "code": "11-9151.00",
+    "title": "Social and Community Service Managers",
+    "label": "11-9151.00 Social and Community Service Managers"
+  },
+  {
+    "code": "11-9161.00",
+    "title": "Emergency Management Directors",
+    "label": "11-9161.00 Emergency Management Directors"
+  },
+  {
+    "code": "11-9171.00",
+    "title": "Funeral Home Managers",
+    "label": "11-9171.00 Funeral Home Managers"
+  },
+  {
+    "code": "11-9179.00",
+    "title": "Personal Service Managers  All Other",
+    "label": "11-9179.00 Personal Service Managers  All Other"
+  },
+  {
+    "code": "11-9179.01",
+    "title": "Fitness and Wellness Coordinators",
+    "label": "11-9179.01 Fitness and Wellness Coordinators"
+  },
+  {
+    "code": "11-9179.02",
+    "title": "Spa Managers",
+    "label": "11-9179.02 Spa Managers"
+  },
+  {
+    "code": "11-9199.00",
+    "title": "Managers  All Other",
+    "label": "11-9199.00 Managers  All Other"
+  },
+  {
+    "code": "11-9199.01",
+    "title": "Regulatory Affairs Managers",
+    "label": "11-9199.01 Regulatory Affairs Managers"
+  },
+  {
+    "code": "11-9199.02",
+    "title": "Compliance Managers",
+    "label": "11-9199.02 Compliance Managers"
+  },
+  {
+    "code": "11-9199.08",
+    "title": "Loss Prevention Managers",
+    "label": "11-9199.08 Loss Prevention Managers"
+  },
+  {
+    "code": "11-9199.09",
+    "title": "Wind Energy Operations Managers",
+    "label": "11-9199.09 Wind Energy Operations Managers"
+  },
+  {
+    "code": "11-9199.10",
+    "title": "Wind Energy Development Managers",
+    "label": "11-9199.10 Wind Energy Development Managers"
+  },
+  {
+    "code": "11-9199.11",
+    "title": "Brownfield Redevelopment Specialists and Site Managers",
+    "label": "11-9199.11 Brownfield Redevelopment Specialists and Site Managers"
+  },
+  {
+    "code": "13-1011.00",
+    "title": "Agents and Business Managers of Artists  Performers  and Athletes",
+    "label": "13-1011.00 Agents and Business Managers of Artists  Performers  and Athletes"
+  },
+  {
+    "code": "13-1021.00",
+    "title": "Buyers and Purchasing Agents  Farm Products",
+    "label": "13-1021.00 Buyers and Purchasing Agents  Farm Products"
+  },
+  {
+    "code": "13-1022.00",
+    "title": "Wholesale and Retail Buyers  Except Farm Products",
+    "label": "13-1022.00 Wholesale and Retail Buyers  Except Farm Products"
+  },
+  {
+    "code": "13-1023.00",
+    "title": "Purchasing Agents  Except Wholesale  Retail  and Farm Products",
+    "label": "13-1023.00 Purchasing Agents  Except Wholesale  Retail  and Farm Products"
+  },
+  {
+    "code": "13-1031.00",
+    "title": "Claims Adjusters  Examiners  and Investigators",
+    "label": "13-1031.00 Claims Adjusters  Examiners  and Investigators"
+  },
+  {
+    "code": "13-1032.00",
+    "title": "Insurance Appraisers  Auto Damage",
+    "label": "13-1032.00 Insurance Appraisers  Auto Damage"
+  },
+  {
+    "code": "13-1041.00",
+    "title": "Compliance Officers",
+    "label": "13-1041.00 Compliance Officers"
+  },
+  {
+    "code": "13-1041.01",
+    "title": "Environmental Compliance Inspectors",
+    "label": "13-1041.01 Environmental Compliance Inspectors"
+  },
+  {
+    "code": "13-1041.03",
+    "title": "Equal Opportunity Representatives and Officers",
+    "label": "13-1041.03 Equal Opportunity Representatives and Officers"
+  },
+  {
+    "code": "13-1041.04",
+    "title": "Government Property Inspectors and Investigators",
+    "label": "13-1041.04 Government Property Inspectors and Investigators"
+  },
+  {
+    "code": "13-1041.06",
+    "title": "Coroners",
+    "label": "13-1041.06 Coroners"
+  },
+  {
+    "code": "13-1041.07",
+    "title": "Regulatory Affairs Specialists",
+    "label": "13-1041.07 Regulatory Affairs Specialists"
+  },
+  {
+    "code": "13-1041.08",
+    "title": "Customs Brokers",
+    "label": "13-1041.08 Customs Brokers"
+  },
+  {
+    "code": "13-1051.00",
+    "title": "Cost Estimators",
+    "label": "13-1051.00 Cost Estimators"
+  },
+  {
+    "code": "13-1071.00",
+    "title": "Human Resources Specialists",
+    "label": "13-1071.00 Human Resources Specialists"
+  },
+  {
+    "code": "13-1074.00",
+    "title": "Farm Labor Contractors",
+    "label": "13-1074.00 Farm Labor Contractors"
+  },
+  {
+    "code": "13-1075.00",
+    "title": "Labor Relations Specialists",
+    "label": "13-1075.00 Labor Relations Specialists"
+  },
+  {
+    "code": "13-1081.00",
+    "title": "Logisticians",
+    "label": "13-1081.00 Logisticians"
+  },
+  {
+    "code": "13-1081.01",
+    "title": "Logistics Engineers",
+    "label": "13-1081.01 Logistics Engineers"
+  },
+  {
+    "code": "13-1081.02",
+    "title": "Logistics Analysts",
+    "label": "13-1081.02 Logistics Analysts"
+  },
+  {
+    "code": "13-1082.00",
+    "title": "Project Management Specialists",
+    "label": "13-1082.00 Project Management Specialists"
+  },
+  {
+    "code": "13-1111.00",
+    "title": "Management Analysts",
+    "label": "13-1111.00 Management Analysts"
+  },
+  {
+    "code": "13-1121.00",
+    "title": "Meeting  Convention  and Event Planners",
+    "label": "13-1121.00 Meeting  Convention  and Event Planners"
+  },
+  {
+    "code": "13-1131.00",
+    "title": "Fundraisers",
+    "label": "13-1131.00 Fundraisers"
+  },
+  {
+    "code": "13-1141.00",
+    "title": "Compensation  Benefits  and Job Analysis Specialists",
+    "label": "13-1141.00 Compensation  Benefits  and Job Analysis Specialists"
+  },
+  {
+    "code": "13-1151.00",
+    "title": "Training and Development Specialists",
+    "label": "13-1151.00 Training and Development Specialists"
+  },
+  {
+    "code": "13-1161.00",
+    "title": "Market Research Analysts and Marketing Specialists",
+    "label": "13-1161.00 Market Research Analysts and Marketing Specialists"
+  },
+  {
+    "code": "13-1161.01",
+    "title": "Search Marketing Strategists",
+    "label": "13-1161.01 Search Marketing Strategists"
+  },
+  {
+    "code": "13-1199.00",
+    "title": "Business Operations Specialists  All Other",
+    "label": "13-1199.00 Business Operations Specialists  All Other"
+  },
+  {
+    "code": "13-1199.04",
+    "title": "Business Continuity Planners",
+    "label": "13-1199.04 Business Continuity Planners"
+  },
+  {
+    "code": "13-1199.05",
+    "title": "Sustainability Specialists",
+    "label": "13-1199.05 Sustainability Specialists"
+  },
+  {
+    "code": "13-1199.06",
+    "title": "Online Merchants",
+    "label": "13-1199.06 Online Merchants"
+  },
+  {
+    "code": "13-1199.07",
+    "title": "Security Management Specialists",
+    "label": "13-1199.07 Security Management Specialists"
+  },
+  {
+    "code": "13-2011.00",
+    "title": "Accountants and Auditors",
+    "label": "13-2011.00 Accountants and Auditors"
+  },
+  {
+    "code": "13-2022.00",
+    "title": "Appraisers of Personal and Business Property",
+    "label": "13-2022.00 Appraisers of Personal and Business Property"
+  },
+  {
+    "code": "13-2023.00",
+    "title": "Appraisers and Assessors of Real Estate",
+    "label": "13-2023.00 Appraisers and Assessors of Real Estate"
+  },
+  {
+    "code": "13-2031.00",
+    "title": "Budget Analysts",
+    "label": "13-2031.00 Budget Analysts"
+  },
+  {
+    "code": "13-2041.00",
+    "title": "Credit Analysts",
+    "label": "13-2041.00 Credit Analysts"
+  },
+  {
+    "code": "13-2051.00",
+    "title": "Financial and Investment Analysts",
+    "label": "13-2051.00 Financial and Investment Analysts"
+  },
+  {
+    "code": "13-2052.00",
+    "title": "Personal Financial Advisors",
+    "label": "13-2052.00 Personal Financial Advisors"
+  },
+  {
+    "code": "13-2053.00",
+    "title": "Insurance Underwriters",
+    "label": "13-2053.00 Insurance Underwriters"
+  },
+  {
+    "code": "13-2054.00",
+    "title": "Financial Risk Specialists",
+    "label": "13-2054.00 Financial Risk Specialists"
+  },
+  {
+    "code": "13-2061.00",
+    "title": "Financial Examiners",
+    "label": "13-2061.00 Financial Examiners"
+  },
+  {
+    "code": "13-2071.00",
+    "title": "Credit Counselors",
+    "label": "13-2071.00 Credit Counselors"
+  },
+  {
+    "code": "13-2072.00",
+    "title": "Loan Officers",
+    "label": "13-2072.00 Loan Officers"
+  },
+  {
+    "code": "13-2081.00",
+    "title": "Tax Examiners and Collectors  and Revenue Agents",
+    "label": "13-2081.00 Tax Examiners and Collectors  and Revenue Agents"
+  },
+  {
+    "code": "13-2082.00",
+    "title": "Tax Preparers",
+    "label": "13-2082.00 Tax Preparers"
+  },
+  {
+    "code": "13-2099.00",
+    "title": "Financial Specialists  All Other",
+    "label": "13-2099.00 Financial Specialists  All Other"
+  },
+  {
+    "code": "13-2099.01",
+    "title": "Financial Quantitative Analysts",
+    "label": "13-2099.01 Financial Quantitative Analysts"
+  },
+  {
+    "code": "13-2099.04",
+    "title": "Fraud Examiners  Investigators and Analysts",
+    "label": "13-2099.04 Fraud Examiners  Investigators and Analysts"
+  },
+  {
+    "code": "15-1211.00",
+    "title": "Computer Systems Analysts",
+    "label": "15-1211.00 Computer Systems Analysts"
+  },
+  {
+    "code": "15-1211.01",
+    "title": "Health Informatics Specialists",
+    "label": "15-1211.01 Health Informatics Specialists"
+  },
+  {
+    "code": "15-1212.00",
+    "title": "Information Security Analysts",
+    "label": "15-1212.00 Information Security Analysts"
+  },
+  {
+    "code": "15-1221.00",
+    "title": "Computer and Information Research Scientists",
+    "label": "15-1221.00 Computer and Information Research Scientists"
+  },
+  {
+    "code": "15-1231.00",
+    "title": "Computer Network Support Specialists",
+    "label": "15-1231.00 Computer Network Support Specialists"
+  },
+  {
+    "code": "15-1232.00",
+    "title": "Computer User Support Specialists",
+    "label": "15-1232.00 Computer User Support Specialists"
+  },
+  {
+    "code": "15-1241.00",
+    "title": "Computer Network Architects",
+    "label": "15-1241.00 Computer Network Architects"
+  },
+  {
+    "code": "15-1241.01",
+    "title": "Telecommunications Engineering Specialists",
+    "label": "15-1241.01 Telecommunications Engineering Specialists"
+  },
+  {
+    "code": "15-1242.00",
+    "title": "Database Administrators",
+    "label": "15-1242.00 Database Administrators"
+  },
+  {
+    "code": "15-1243.00",
+    "title": "Database Architects",
+    "label": "15-1243.00 Database Architects"
+  },
+  {
+    "code": "15-1243.01",
+    "title": "Data Warehousing Specialists",
+    "label": "15-1243.01 Data Warehousing Specialists"
+  },
+  {
+    "code": "15-1244.00",
+    "title": "Network and Computer Systems Administrators",
+    "label": "15-1244.00 Network and Computer Systems Administrators"
+  },
+  {
+    "code": "15-1251.00",
+    "title": "Computer Programmers",
+    "label": "15-1251.00 Computer Programmers"
+  },
+  {
+    "code": "15-1252.00",
+    "title": "Software Developers",
+    "label": "15-1252.00 Software Developers"
+  },
+  {
+    "code": "15-1253.00",
+    "title": "Software Quality Assurance Analysts and Testers",
+    "label": "15-1253.00 Software Quality Assurance Analysts and Testers"
+  },
+  {
+    "code": "15-1254.00",
+    "title": "Web Developers",
+    "label": "15-1254.00 Web Developers"
+  },
+  {
+    "code": "15-1255.00",
+    "title": "Web and Digital Interface Designers",
+    "label": "15-1255.00 Web and Digital Interface Designers"
+  },
+  {
+    "code": "15-1255.01",
+    "title": "Video Game Designers",
+    "label": "15-1255.01 Video Game Designers"
+  },
+  {
+    "code": "15-1299.00",
+    "title": "Computer Occupations  All Other",
+    "label": "15-1299.00 Computer Occupations  All Other"
+  },
+  {
+    "code": "15-1299.01",
+    "title": "Web Administrators",
+    "label": "15-1299.01 Web Administrators"
+  },
+  {
+    "code": "15-1299.02",
+    "title": "Geographic Information Systems Technologists and Technicians",
+    "label": "15-1299.02 Geographic Information Systems Technologists and Technicians"
+  },
+  {
+    "code": "15-1299.03",
+    "title": "Document Management Specialists",
+    "label": "15-1299.03 Document Management Specialists"
+  },
+  {
+    "code": "15-1299.04",
+    "title": "Penetration Testers",
+    "label": "15-1299.04 Penetration Testers"
+  },
+  {
+    "code": "15-1299.05",
+    "title": "Information Security Engineers",
+    "label": "15-1299.05 Information Security Engineers"
+  },
+  {
+    "code": "15-1299.06",
+    "title": "Digital Forensics Analysts",
+    "label": "15-1299.06 Digital Forensics Analysts"
+  },
+  {
+    "code": "15-1299.07",
+    "title": "Blockchain Engineers",
+    "label": "15-1299.07 Blockchain Engineers"
+  },
+  {
+    "code": "15-1299.08",
+    "title": "Computer Systems Engineers-Architects",
+    "label": "15-1299.08 Computer Systems Engineers-Architects"
+  },
+  {
+    "code": "15-1299.09",
+    "title": "Information Technology Project Managers",
+    "label": "15-1299.09 Information Technology Project Managers"
+  },
+  {
+    "code": "15-2011.00",
+    "title": "Actuaries",
+    "label": "15-2011.00 Actuaries"
+  },
+  {
+    "code": "15-2021.00",
+    "title": "Mathematicians",
+    "label": "15-2021.00 Mathematicians"
+  },
+  {
+    "code": "15-2031.00",
+    "title": "Operations Research Analysts",
+    "label": "15-2031.00 Operations Research Analysts"
+  },
+  {
+    "code": "15-2041.00",
+    "title": "Statisticians",
+    "label": "15-2041.00 Statisticians"
+  },
+  {
+    "code": "15-2041.01",
+    "title": "Biostatisticians",
+    "label": "15-2041.01 Biostatisticians"
+  },
+  {
+    "code": "15-2051.00",
+    "title": "Data Scientists",
+    "label": "15-2051.00 Data Scientists"
+  },
+  {
+    "code": "15-2051.01",
+    "title": "Business Intelligence Analysts",
+    "label": "15-2051.01 Business Intelligence Analysts"
+  },
+  {
+    "code": "15-2051.02",
+    "title": "Clinical Data Managers",
+    "label": "15-2051.02 Clinical Data Managers"
+  },
+  {
+    "code": "15-2099.00",
+    "title": "Mathematical Science Occupations  All Other",
+    "label": "15-2099.00 Mathematical Science Occupations  All Other"
+  },
+  {
+    "code": "15-2099.01",
+    "title": "Bioinformatics Technicians",
+    "label": "15-2099.01 Bioinformatics Technicians"
+  },
+  {
+    "code": "17-1011.00",
+    "title": "Architects  Except Landscape and Naval",
+    "label": "17-1011.00 Architects  Except Landscape and Naval"
+  },
+  {
+    "code": "17-1012.00",
+    "title": "Landscape Architects",
+    "label": "17-1012.00 Landscape Architects"
+  },
+  {
+    "code": "17-1021.00",
+    "title": "Cartographers and Photogrammetrists",
+    "label": "17-1021.00 Cartographers and Photogrammetrists"
+  },
+  {
+    "code": "17-1022.00",
+    "title": "Surveyors",
+    "label": "17-1022.00 Surveyors"
+  },
+  {
+    "code": "17-1022.01",
+    "title": "Geodetic Surveyors",
+    "label": "17-1022.01 Geodetic Surveyors"
+  },
+  {
+    "code": "17-2011.00",
+    "title": "Aerospace Engineers",
+    "label": "17-2011.00 Aerospace Engineers"
+  },
+  {
+    "code": "17-2021.00",
+    "title": "Agricultural Engineers",
+    "label": "17-2021.00 Agricultural Engineers"
+  },
+  {
+    "code": "17-2031.00",
+    "title": "Bioengineers and Biomedical Engineers",
+    "label": "17-2031.00 Bioengineers and Biomedical Engineers"
+  },
+  {
+    "code": "17-2041.00",
+    "title": "Chemical Engineers",
+    "label": "17-2041.00 Chemical Engineers"
+  },
+  {
+    "code": "17-2051.00",
+    "title": "Civil Engineers",
+    "label": "17-2051.00 Civil Engineers"
+  },
+  {
+    "code": "17-2051.01",
+    "title": "Transportation Engineers",
+    "label": "17-2051.01 Transportation Engineers"
+  },
+  {
+    "code": "17-2051.02",
+    "title": "Water-Wastewater Engineers",
+    "label": "17-2051.02 Water-Wastewater Engineers"
+  },
+  {
+    "code": "17-2061.00",
+    "title": "Computer Hardware Engineers",
+    "label": "17-2061.00 Computer Hardware Engineers"
+  },
+  {
+    "code": "17-2071.00",
+    "title": "Electrical Engineers",
+    "label": "17-2071.00 Electrical Engineers"
+  },
+  {
+    "code": "17-2072.00",
+    "title": "Electronics Engineers  Except Computer",
+    "label": "17-2072.00 Electronics Engineers  Except Computer"
+  },
+  {
+    "code": "17-2072.01",
+    "title": "Radio Frequency Identification Device Specialists",
+    "label": "17-2072.01 Radio Frequency Identification Device Specialists"
+  },
+  {
+    "code": "17-2081.00",
+    "title": "Environmental Engineers",
+    "label": "17-2081.00 Environmental Engineers"
+  },
+  {
+    "code": "17-2111.00",
+    "title": "Health and Safety Engineers  Except Mining Safety Engineers and Inspectors",
+    "label": "17-2111.00 Health and Safety Engineers  Except Mining Safety Engineers and Inspectors"
+  },
+  {
+    "code": "17-2111.02",
+    "title": "Fire-Prevention and Protection Engineers",
+    "label": "17-2111.02 Fire-Prevention and Protection Engineers"
+  },
+  {
+    "code": "17-2112.00",
+    "title": "Industrial Engineers",
+    "label": "17-2112.00 Industrial Engineers"
+  },
+  {
+    "code": "17-2112.01",
+    "title": "Human Factors Engineers and Ergonomists",
+    "label": "17-2112.01 Human Factors Engineers and Ergonomists"
+  },
+  {
+    "code": "17-2112.02",
+    "title": "Validation Engineers",
+    "label": "17-2112.02 Validation Engineers"
+  },
+  {
+    "code": "17-2112.03",
+    "title": "Manufacturing Engineers",
+    "label": "17-2112.03 Manufacturing Engineers"
+  },
+  {
+    "code": "17-2121.00",
+    "title": "Marine Engineers and Naval Architects",
+    "label": "17-2121.00 Marine Engineers and Naval Architects"
+  },
+  {
+    "code": "17-2131.00",
+    "title": "Materials Engineers",
+    "label": "17-2131.00 Materials Engineers"
+  },
+  {
+    "code": "17-2141.00",
+    "title": "Mechanical Engineers",
+    "label": "17-2141.00 Mechanical Engineers"
+  },
+  {
+    "code": "17-2141.01",
+    "title": "Fuel Cell Engineers",
+    "label": "17-2141.01 Fuel Cell Engineers"
+  },
+  {
+    "code": "17-2141.02",
+    "title": "Automotive Engineers",
+    "label": "17-2141.02 Automotive Engineers"
+  },
+  {
+    "code": "17-2151.00",
+    "title": "Mining and Geological Engineers  Including Mining Safety Engineers",
+    "label": "17-2151.00 Mining and Geological Engineers  Including Mining Safety Engineers"
+  },
+  {
+    "code": "17-2161.00",
+    "title": "Nuclear Engineers",
+    "label": "17-2161.00 Nuclear Engineers"
+  },
+  {
+    "code": "17-2171.00",
+    "title": "Petroleum Engineers",
+    "label": "17-2171.00 Petroleum Engineers"
+  },
+  {
+    "code": "17-2199.00",
+    "title": "Engineers  All Other",
+    "label": "17-2199.00 Engineers  All Other"
+  },
+  {
+    "code": "17-2199.03",
+    "title": "Energy Engineers  Except Wind and Solar",
+    "label": "17-2199.03 Energy Engineers  Except Wind and Solar"
+  },
+  {
+    "code": "17-2199.05",
+    "title": "Mechatronics Engineers",
+    "label": "17-2199.05 Mechatronics Engineers"
+  },
+  {
+    "code": "17-2199.06",
+    "title": "Microsystems Engineers",
+    "label": "17-2199.06 Microsystems Engineers"
+  },
+  {
+    "code": "17-2199.07",
+    "title": "Photonics Engineers",
+    "label": "17-2199.07 Photonics Engineers"
+  },
+  {
+    "code": "17-2199.08",
+    "title": "Robotics Engineers",
+    "label": "17-2199.08 Robotics Engineers"
+  },
+  {
+    "code": "17-2199.09",
+    "title": "Nanosystems Engineers",
+    "label": "17-2199.09 Nanosystems Engineers"
+  },
+  {
+    "code": "17-2199.10",
+    "title": "Wind Energy Engineers",
+    "label": "17-2199.10 Wind Energy Engineers"
+  },
+  {
+    "code": "17-2199.11",
+    "title": "Solar Energy Systems Engineers",
+    "label": "17-2199.11 Solar Energy Systems Engineers"
+  },
+  {
+    "code": "17-3011.00",
+    "title": "Architectural and Civil Drafters",
+    "label": "17-3011.00 Architectural and Civil Drafters"
+  },
+  {
+    "code": "17-3012.00",
+    "title": "Electrical and Electronics Drafters",
+    "label": "17-3012.00 Electrical and Electronics Drafters"
+  },
+  {
+    "code": "17-3013.00",
+    "title": "Mechanical Drafters",
+    "label": "17-3013.00 Mechanical Drafters"
+  },
+  {
+    "code": "17-3019.00",
+    "title": "Drafters  All Other",
+    "label": "17-3019.00 Drafters  All Other"
+  },
+  {
+    "code": "17-3021.00",
+    "title": "Aerospace Engineering and Operations Technologists and Technicians",
+    "label": "17-3021.00 Aerospace Engineering and Operations Technologists and Technicians"
+  },
+  {
+    "code": "17-3022.00",
+    "title": "Civil Engineering Technologists and Technicians",
+    "label": "17-3022.00 Civil Engineering Technologists and Technicians"
+  },
+  {
+    "code": "17-3023.00",
+    "title": "Electrical and Electronic Engineering Technologists and Technicians",
+    "label": "17-3023.00 Electrical and Electronic Engineering Technologists and Technicians"
+  },
+  {
+    "code": "17-3024.00",
+    "title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+    "label": "17-3024.00 Electro-Mechanical and Mechatronics Technologists and Technicians"
+  },
+  {
+    "code": "17-3024.01",
+    "title": "Robotics Technicians",
+    "label": "17-3024.01 Robotics Technicians"
+  },
+  {
+    "code": "17-3025.00",
+    "title": "Environmental Engineering Technologists and Technicians",
+    "label": "17-3025.00 Environmental Engineering Technologists and Technicians"
+  },
+  {
+    "code": "17-3026.00",
+    "title": "Industrial Engineering Technologists and Technicians",
+    "label": "17-3026.00 Industrial Engineering Technologists and Technicians"
+  },
+  {
+    "code": "17-3026.01",
+    "title": "Nanotechnology Engineering Technologists and Technicians",
+    "label": "17-3026.01 Nanotechnology Engineering Technologists and Technicians"
+  },
+  {
+    "code": "17-3027.00",
+    "title": "Mechanical Engineering Technologists and Technicians",
+    "label": "17-3027.00 Mechanical Engineering Technologists and Technicians"
+  },
+  {
+    "code": "17-3027.01",
+    "title": "Automotive Engineering Technicians",
+    "label": "17-3027.01 Automotive Engineering Technicians"
+  },
+  {
+    "code": "17-3028.00",
+    "title": "Calibration Technologists and Technicians",
+    "label": "17-3028.00 Calibration Technologists and Technicians"
+  },
+  {
+    "code": "17-3029.00",
+    "title": "Engineering Technologists and Technicians  Except Drafters  All Other",
+    "label": "17-3029.00 Engineering Technologists and Technicians  Except Drafters  All Other"
+  },
+  {
+    "code": "17-3029.01",
+    "title": "Non-Destructive Testing Specialists",
+    "label": "17-3029.01 Non-Destructive Testing Specialists"
+  },
+  {
+    "code": "17-3029.08",
+    "title": "Photonics Technicians",
+    "label": "17-3029.08 Photonics Technicians"
+  },
+  {
+    "code": "17-3031.00",
+    "title": "Surveying and Mapping Technicians",
+    "label": "17-3031.00 Surveying and Mapping Technicians"
+  },
+  {
+    "code": "19-1011.00",
+    "title": "Animal Scientists",
+    "label": "19-1011.00 Animal Scientists"
+  },
+  {
+    "code": "19-1012.00",
+    "title": "Food Scientists and Technologists",
+    "label": "19-1012.00 Food Scientists and Technologists"
+  },
+  {
+    "code": "19-1013.00",
+    "title": "Soil and Plant Scientists",
+    "label": "19-1013.00 Soil and Plant Scientists"
+  },
+  {
+    "code": "19-1021.00",
+    "title": "Biochemists and Biophysicists",
+    "label": "19-1021.00 Biochemists and Biophysicists"
+  },
+  {
+    "code": "19-1022.00",
+    "title": "Microbiologists",
+    "label": "19-1022.00 Microbiologists"
+  },
+  {
+    "code": "19-1023.00",
+    "title": "Zoologists and Wildlife Biologists",
+    "label": "19-1023.00 Zoologists and Wildlife Biologists"
+  },
+  {
+    "code": "19-1029.00",
+    "title": "Biological Scientists  All Other",
+    "label": "19-1029.00 Biological Scientists  All Other"
+  },
+  {
+    "code": "19-1029.01",
+    "title": "Bioinformatics Scientists",
+    "label": "19-1029.01 Bioinformatics Scientists"
+  },
+  {
+    "code": "19-1029.02",
+    "title": "Molecular and Cellular Biologists",
+    "label": "19-1029.02 Molecular and Cellular Biologists"
+  },
+  {
+    "code": "19-1029.03",
+    "title": "Geneticists",
+    "label": "19-1029.03 Geneticists"
+  },
+  {
+    "code": "19-1029.04",
+    "title": "Biologists",
+    "label": "19-1029.04 Biologists"
+  },
+  {
+    "code": "19-1031.00",
+    "title": "Conservation Scientists",
+    "label": "19-1031.00 Conservation Scientists"
+  },
+  {
+    "code": "19-1031.02",
+    "title": "Range Managers",
+    "label": "19-1031.02 Range Managers"
+  },
+  {
+    "code": "19-1031.03",
+    "title": "Park Naturalists",
+    "label": "19-1031.03 Park Naturalists"
+  },
+  {
+    "code": "19-1032.00",
+    "title": "Foresters",
+    "label": "19-1032.00 Foresters"
+  },
+  {
+    "code": "19-1041.00",
+    "title": "Epidemiologists",
+    "label": "19-1041.00 Epidemiologists"
+  },
+  {
+    "code": "19-1042.00",
+    "title": "Medical Scientists  Except Epidemiologists",
+    "label": "19-1042.00 Medical Scientists  Except Epidemiologists"
+  },
+  {
+    "code": "19-1099.00",
+    "title": "Life Scientists  All Other",
+    "label": "19-1099.00 Life Scientists  All Other"
+  },
+  {
+    "code": "19-2011.00",
+    "title": "Astronomers",
+    "label": "19-2011.00 Astronomers"
+  },
+  {
+    "code": "19-2012.00",
+    "title": "Physicists",
+    "label": "19-2012.00 Physicists"
+  },
+  {
+    "code": "19-2021.00",
+    "title": "Atmospheric and Space Scientists",
+    "label": "19-2021.00 Atmospheric and Space Scientists"
+  },
+  {
+    "code": "19-2031.00",
+    "title": "Chemists",
+    "label": "19-2031.00 Chemists"
+  },
+  {
+    "code": "19-2032.00",
+    "title": "Materials Scientists",
+    "label": "19-2032.00 Materials Scientists"
+  },
+  {
+    "code": "19-2041.00",
+    "title": "Environmental Scientists and Specialists  Including Health",
+    "label": "19-2041.00 Environmental Scientists and Specialists  Including Health"
+  },
+  {
+    "code": "19-2041.01",
+    "title": "Climate Change Policy Analysts",
+    "label": "19-2041.01 Climate Change Policy Analysts"
+  },
+  {
+    "code": "19-2041.02",
+    "title": "Environmental Restoration Planners",
+    "label": "19-2041.02 Environmental Restoration Planners"
+  },
+  {
+    "code": "19-2041.03",
+    "title": "Industrial Ecologists",
+    "label": "19-2041.03 Industrial Ecologists"
+  },
+  {
+    "code": "19-2042.00",
+    "title": "Geoscientists  Except Hydrologists and Geographers",
+    "label": "19-2042.00 Geoscientists  Except Hydrologists and Geographers"
+  },
+  {
+    "code": "19-2043.00",
+    "title": "Hydrologists",
+    "label": "19-2043.00 Hydrologists"
+  },
+  {
+    "code": "19-2099.00",
+    "title": "Physical Scientists  All Other",
+    "label": "19-2099.00 Physical Scientists  All Other"
+  },
+  {
+    "code": "19-2099.01",
+    "title": "Remote Sensing Scientists and Technologists",
+    "label": "19-2099.01 Remote Sensing Scientists and Technologists"
+  },
+  {
+    "code": "19-3011.00",
+    "title": "Economists",
+    "label": "19-3011.00 Economists"
+  },
+  {
+    "code": "19-3011.01",
+    "title": "Environmental Economists",
+    "label": "19-3011.01 Environmental Economists"
+  },
+  {
+    "code": "19-3022.00",
+    "title": "Survey Researchers",
+    "label": "19-3022.00 Survey Researchers"
+  },
+  {
+    "code": "19-3032.00",
+    "title": "Industrial-Organizational Psychologists",
+    "label": "19-3032.00 Industrial-Organizational Psychologists"
+  },
+  {
+    "code": "19-3033.00",
+    "title": "Clinical and Counseling Psychologists",
+    "label": "19-3033.00 Clinical and Counseling Psychologists"
+  },
+  {
+    "code": "19-3034.00",
+    "title": "School Psychologists",
+    "label": "19-3034.00 School Psychologists"
+  },
+  {
+    "code": "19-3039.00",
+    "title": "Psychologists  All Other",
+    "label": "19-3039.00 Psychologists  All Other"
+  },
+  {
+    "code": "19-3039.02",
+    "title": "Neuropsychologists",
+    "label": "19-3039.02 Neuropsychologists"
+  },
+  {
+    "code": "19-3039.03",
+    "title": "Clinical Neuropsychologists",
+    "label": "19-3039.03 Clinical Neuropsychologists"
+  },
+  {
+    "code": "19-3041.00",
+    "title": "Sociologists",
+    "label": "19-3041.00 Sociologists"
+  },
+  {
+    "code": "19-3051.00",
+    "title": "Urban and Regional Planners",
+    "label": "19-3051.00 Urban and Regional Planners"
+  },
+  {
+    "code": "19-3091.00",
+    "title": "Anthropologists and Archeologists",
+    "label": "19-3091.00 Anthropologists and Archeologists"
+  },
+  {
+    "code": "19-3092.00",
+    "title": "Geographers",
+    "label": "19-3092.00 Geographers"
+  },
+  {
+    "code": "19-3093.00",
+    "title": "Historians",
+    "label": "19-3093.00 Historians"
+  },
+  {
+    "code": "19-3094.00",
+    "title": "Political Scientists",
+    "label": "19-3094.00 Political Scientists"
+  },
+  {
+    "code": "19-3099.00",
+    "title": "Social Scientists and Related Workers  All Other",
+    "label": "19-3099.00 Social Scientists and Related Workers  All Other"
+  },
+  {
+    "code": "19-3099.01",
+    "title": "Transportation Planners",
+    "label": "19-3099.01 Transportation Planners"
+  },
+  {
+    "code": "19-4012.00",
+    "title": "Agricultural Technicians",
+    "label": "19-4012.00 Agricultural Technicians"
+  },
+  {
+    "code": "19-4012.01",
+    "title": "Precision Agriculture Technicians",
+    "label": "19-4012.01 Precision Agriculture Technicians"
+  },
+  {
+    "code": "19-4013.00",
+    "title": "Food Science Technicians",
+    "label": "19-4013.00 Food Science Technicians"
+  },
+  {
+    "code": "19-4021.00",
+    "title": "Biological Technicians",
+    "label": "19-4021.00 Biological Technicians"
+  },
+  {
+    "code": "19-4031.00",
+    "title": "Chemical Technicians",
+    "label": "19-4031.00 Chemical Technicians"
+  },
+  {
+    "code": "19-4042.00",
+    "title": "Environmental Science and Protection Technicians  Including Health",
+    "label": "19-4042.00 Environmental Science and Protection Technicians  Including Health"
+  },
+  {
+    "code": "19-4043.00",
+    "title": "Geological Technicians  Except Hydrologic Technicians",
+    "label": "19-4043.00 Geological Technicians  Except Hydrologic Technicians"
+  },
+  {
+    "code": "19-4044.00",
+    "title": "Hydrologic Technicians",
+    "label": "19-4044.00 Hydrologic Technicians"
+  },
+  {
+    "code": "19-4051.00",
+    "title": "Nuclear Technicians",
+    "label": "19-4051.00 Nuclear Technicians"
+  },
+  {
+    "code": "19-4051.02",
+    "title": "Nuclear Monitoring Technicians",
+    "label": "19-4051.02 Nuclear Monitoring Technicians"
+  },
+  {
+    "code": "19-4061.00",
+    "title": "Social Science Research Assistants",
+    "label": "19-4061.00 Social Science Research Assistants"
+  },
+  {
+    "code": "19-4071.00",
+    "title": "Forest and Conservation Technicians",
+    "label": "19-4071.00 Forest and Conservation Technicians"
+  },
+  {
+    "code": "19-4092.00",
+    "title": "Forensic Science Technicians",
+    "label": "19-4092.00 Forensic Science Technicians"
+  },
+  {
+    "code": "19-4099.00",
+    "title": "Life  Physical  and Social Science Technicians  All Other",
+    "label": "19-4099.00 Life  Physical  and Social Science Technicians  All Other"
+  },
+  {
+    "code": "19-4099.01",
+    "title": "Quality Control Analysts",
+    "label": "19-4099.01 Quality Control Analysts"
+  },
+  {
+    "code": "19-4099.03",
+    "title": "Remote Sensing Technicians",
+    "label": "19-4099.03 Remote Sensing Technicians"
+  },
+  {
+    "code": "19-5011.00",
+    "title": "Occupational Health and Safety Specialists",
+    "label": "19-5011.00 Occupational Health and Safety Specialists"
+  },
+  {
+    "code": "19-5012.00",
+    "title": "Occupational Health and Safety Technicians",
+    "label": "19-5012.00 Occupational Health and Safety Technicians"
+  },
+  {
+    "code": "21-1011.00",
+    "title": "Substance Abuse and Behavioral Disorder Counselors",
+    "label": "21-1011.00 Substance Abuse and Behavioral Disorder Counselors"
+  },
+  {
+    "code": "21-1012.00",
+    "title": "Educational  Guidance  and Career Counselors and Advisors",
+    "label": "21-1012.00 Educational  Guidance  and Career Counselors and Advisors"
+  },
+  {
+    "code": "21-1013.00",
+    "title": "Marriage and Family Therapists",
+    "label": "21-1013.00 Marriage and Family Therapists"
+  },
+  {
+    "code": "21-1014.00",
+    "title": "Mental Health Counselors",
+    "label": "21-1014.00 Mental Health Counselors"
+  },
+  {
+    "code": "21-1015.00",
+    "title": "Rehabilitation Counselors",
+    "label": "21-1015.00 Rehabilitation Counselors"
+  },
+  {
+    "code": "21-1019.00",
+    "title": "Counselors  All Other",
+    "label": "21-1019.00 Counselors  All Other"
+  },
+  {
+    "code": "21-1021.00",
+    "title": "Child  Family  and School Social Workers",
+    "label": "21-1021.00 Child  Family  and School Social Workers"
+  },
+  {
+    "code": "21-1022.00",
+    "title": "Healthcare Social Workers",
+    "label": "21-1022.00 Healthcare Social Workers"
+  },
+  {
+    "code": "21-1023.00",
+    "title": "Mental Health and Substance Abuse Social Workers",
+    "label": "21-1023.00 Mental Health and Substance Abuse Social Workers"
+  },
+  {
+    "code": "21-1029.00",
+    "title": "Social Workers  All Other",
+    "label": "21-1029.00 Social Workers  All Other"
+  },
+  {
+    "code": "21-1091.00",
+    "title": "Health Education Specialists",
+    "label": "21-1091.00 Health Education Specialists"
+  },
+  {
+    "code": "21-1092.00",
+    "title": "Probation Officers and Correctional Treatment Specialists",
+    "label": "21-1092.00 Probation Officers and Correctional Treatment Specialists"
+  },
+  {
+    "code": "21-1093.00",
+    "title": "Social and Human Service Assistants",
+    "label": "21-1093.00 Social and Human Service Assistants"
+  },
+  {
+    "code": "21-1094.00",
+    "title": "Community Health Workers",
+    "label": "21-1094.00 Community Health Workers"
+  },
+  {
+    "code": "21-1099.00",
+    "title": "Community and Social Service Specialists  All Other",
+    "label": "21-1099.00 Community and Social Service Specialists  All Other"
+  },
+  {
+    "code": "21-2011.00",
+    "title": "Clergy",
+    "label": "21-2011.00 Clergy"
+  },
+  {
+    "code": "21-2021.00",
+    "title": "Directors  Religious Activities and Education",
+    "label": "21-2021.00 Directors  Religious Activities and Education"
+  },
+  {
+    "code": "21-2099.00",
+    "title": "Religious Workers  All Other",
+    "label": "21-2099.00 Religious Workers  All Other"
+  },
+  {
+    "code": "23-1011.00",
+    "title": "Lawyers",
+    "label": "23-1011.00 Lawyers"
+  },
+  {
+    "code": "23-1012.00",
+    "title": "Judicial Law Clerks",
+    "label": "23-1012.00 Judicial Law Clerks"
+  },
+  {
+    "code": "23-1021.00",
+    "title": "Administrative Law Judges  Adjudicators  and Hearing Officers",
+    "label": "23-1021.00 Administrative Law Judges  Adjudicators  and Hearing Officers"
+  },
+  {
+    "code": "23-1022.00",
+    "title": "Arbitrators  Mediators  and Conciliators",
+    "label": "23-1022.00 Arbitrators  Mediators  and Conciliators"
+  },
+  {
+    "code": "23-1023.00",
+    "title": "Judges  Magistrate Judges  and Magistrates",
+    "label": "23-1023.00 Judges  Magistrate Judges  and Magistrates"
+  },
+  {
+    "code": "23-2011.00",
+    "title": "Paralegals and Legal Assistants",
+    "label": "23-2011.00 Paralegals and Legal Assistants"
+  },
+  {
+    "code": "23-2093.00",
+    "title": "Title Examiners  Abstractors  and Searchers",
+    "label": "23-2093.00 Title Examiners  Abstractors  and Searchers"
+  },
+  {
+    "code": "23-2099.00",
+    "title": "Legal Support Workers  All Other",
+    "label": "23-2099.00 Legal Support Workers  All Other"
+  },
+  {
+    "code": "25-1011.00",
+    "title": "Business Teachers  Postsecondary",
+    "label": "25-1011.00 Business Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1021.00",
+    "title": "Computer Science Teachers  Postsecondary",
+    "label": "25-1021.00 Computer Science Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1022.00",
+    "title": "Mathematical Science Teachers  Postsecondary",
+    "label": "25-1022.00 Mathematical Science Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1031.00",
+    "title": "Architecture Teachers  Postsecondary",
+    "label": "25-1031.00 Architecture Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1032.00",
+    "title": "Engineering Teachers  Postsecondary",
+    "label": "25-1032.00 Engineering Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1041.00",
+    "title": "Agricultural Sciences Teachers  Postsecondary",
+    "label": "25-1041.00 Agricultural Sciences Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1042.00",
+    "title": "Biological Science Teachers  Postsecondary",
+    "label": "25-1042.00 Biological Science Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1043.00",
+    "title": "Forestry and Conservation Science Teachers  Postsecondary",
+    "label": "25-1043.00 Forestry and Conservation Science Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1051.00",
+    "title": "Atmospheric  Earth  Marine  and Space Sciences Teachers  Postsecondary",
+    "label": "25-1051.00 Atmospheric  Earth  Marine  and Space Sciences Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1052.00",
+    "title": "Chemistry Teachers  Postsecondary",
+    "label": "25-1052.00 Chemistry Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1053.00",
+    "title": "Environmental Science Teachers  Postsecondary",
+    "label": "25-1053.00 Environmental Science Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1054.00",
+    "title": "Physics Teachers  Postsecondary",
+    "label": "25-1054.00 Physics Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1061.00",
+    "title": "Anthropology and Archeology Teachers  Postsecondary",
+    "label": "25-1061.00 Anthropology and Archeology Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1062.00",
+    "title": "Area  Ethnic  and Cultural Studies Teachers  Postsecondary",
+    "label": "25-1062.00 Area  Ethnic  and Cultural Studies Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1063.00",
+    "title": "Economics Teachers  Postsecondary",
+    "label": "25-1063.00 Economics Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1064.00",
+    "title": "Geography Teachers  Postsecondary",
+    "label": "25-1064.00 Geography Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1065.00",
+    "title": "Political Science Teachers  Postsecondary",
+    "label": "25-1065.00 Political Science Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1066.00",
+    "title": "Psychology Teachers  Postsecondary",
+    "label": "25-1066.00 Psychology Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1067.00",
+    "title": "Sociology Teachers  Postsecondary",
+    "label": "25-1067.00 Sociology Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1069.00",
+    "title": "Social Sciences Teachers  Postsecondary  All Other",
+    "label": "25-1069.00 Social Sciences Teachers  Postsecondary  All Other"
+  },
+  {
+    "code": "25-1071.00",
+    "title": "Health Specialties Teachers  Postsecondary",
+    "label": "25-1071.00 Health Specialties Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1072.00",
+    "title": "Nursing Instructors and Teachers  Postsecondary",
+    "label": "25-1072.00 Nursing Instructors and Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1081.00",
+    "title": "Education Teachers  Postsecondary",
+    "label": "25-1081.00 Education Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1082.00",
+    "title": "Library Science Teachers  Postsecondary",
+    "label": "25-1082.00 Library Science Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1111.00",
+    "title": "Criminal Justice and Law Enforcement Teachers  Postsecondary",
+    "label": "25-1111.00 Criminal Justice and Law Enforcement Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1112.00",
+    "title": "Law Teachers  Postsecondary",
+    "label": "25-1112.00 Law Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1113.00",
+    "title": "Social Work Teachers  Postsecondary",
+    "label": "25-1113.00 Social Work Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1121.00",
+    "title": "Art  Drama  and Music Teachers  Postsecondary",
+    "label": "25-1121.00 Art  Drama  and Music Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1122.00",
+    "title": "Communications Teachers  Postsecondary",
+    "label": "25-1122.00 Communications Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1123.00",
+    "title": "English Language and Literature Teachers  Postsecondary",
+    "label": "25-1123.00 English Language and Literature Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1124.00",
+    "title": "Foreign Language and Literature Teachers  Postsecondary",
+    "label": "25-1124.00 Foreign Language and Literature Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1125.00",
+    "title": "History Teachers  Postsecondary",
+    "label": "25-1125.00 History Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1126.00",
+    "title": "Philosophy and Religion Teachers  Postsecondary",
+    "label": "25-1126.00 Philosophy and Religion Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1192.00",
+    "title": "Family and Consumer Sciences Teachers  Postsecondary",
+    "label": "25-1192.00 Family and Consumer Sciences Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1193.00",
+    "title": "Recreation and Fitness Studies Teachers  Postsecondary",
+    "label": "25-1193.00 Recreation and Fitness Studies Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1194.00",
+    "title": "Career-Technical Education Teachers  Postsecondary",
+    "label": "25-1194.00 Career-Technical Education Teachers  Postsecondary"
+  },
+  {
+    "code": "25-1199.00",
+    "title": "Postsecondary Teachers  All Other",
+    "label": "25-1199.00 Postsecondary Teachers  All Other"
+  },
+  {
+    "code": "25-2011.00",
+    "title": "Preschool Teachers  Except Special Education",
+    "label": "25-2011.00 Preschool Teachers  Except Special Education"
+  },
+  {
+    "code": "25-2012.00",
+    "title": "Kindergarten Teachers  Except Special Education",
+    "label": "25-2012.00 Kindergarten Teachers  Except Special Education"
+  },
+  {
+    "code": "25-2021.00",
+    "title": "Elementary School Teachers  Except Special Education",
+    "label": "25-2021.00 Elementary School Teachers  Except Special Education"
+  },
+  {
+    "code": "25-2022.00",
+    "title": "Middle School Teachers  Except Special and Career-Technical Education",
+    "label": "25-2022.00 Middle School Teachers  Except Special and Career-Technical Education"
+  },
+  {
+    "code": "25-2023.00",
+    "title": "Career-Technical Education Teachers  Middle School",
+    "label": "25-2023.00 Career-Technical Education Teachers  Middle School"
+  },
+  {
+    "code": "25-2031.00",
+    "title": "Secondary School Teachers  Except Special and Career-Technical Education",
+    "label": "25-2031.00 Secondary School Teachers  Except Special and Career-Technical Education"
+  },
+  {
+    "code": "25-2032.00",
+    "title": "Career-Technical Education Teachers  Secondary School",
+    "label": "25-2032.00 Career-Technical Education Teachers  Secondary School"
+  },
+  {
+    "code": "25-2051.00",
+    "title": "Special Education Teachers  Preschool",
+    "label": "25-2051.00 Special Education Teachers  Preschool"
+  },
+  {
+    "code": "25-2055.00",
+    "title": "Special Education Teachers  Kindergarten",
+    "label": "25-2055.00 Special Education Teachers  Kindergarten"
+  },
+  {
+    "code": "25-2056.00",
+    "title": "Special Education Teachers  Elementary School",
+    "label": "25-2056.00 Special Education Teachers  Elementary School"
+  },
+  {
+    "code": "25-2057.00",
+    "title": "Special Education Teachers  Middle School",
+    "label": "25-2057.00 Special Education Teachers  Middle School"
+  },
+  {
+    "code": "25-2058.00",
+    "title": "Special Education Teachers  Secondary School",
+    "label": "25-2058.00 Special Education Teachers  Secondary School"
+  },
+  {
+    "code": "25-2059.00",
+    "title": "Special Education Teachers  All Other",
+    "label": "25-2059.00 Special Education Teachers  All Other"
+  },
+  {
+    "code": "25-2059.01",
+    "title": "Adapted Physical Education Specialists",
+    "label": "25-2059.01 Adapted Physical Education Specialists"
+  },
+  {
+    "code": "25-3011.00",
+    "title": "Adult Basic Education  Adult Secondary Education  and English as a Second Language Instructors",
+    "label": "25-3011.00 Adult Basic Education  Adult Secondary Education  and English as a Second Language Instructors"
+  },
+  {
+    "code": "25-3021.00",
+    "title": "Self-Enrichment Teachers",
+    "label": "25-3021.00 Self-Enrichment Teachers"
+  },
+  {
+    "code": "25-3031.00",
+    "title": "Substitute Teachers  Short-Term",
+    "label": "25-3031.00 Substitute Teachers  Short-Term"
+  },
+  {
+    "code": "25-3041.00",
+    "title": "Tutors",
+    "label": "25-3041.00 Tutors"
+  },
+  {
+    "code": "25-3099.00",
+    "title": "Teachers and Instructors  All Other",
+    "label": "25-3099.00 Teachers and Instructors  All Other"
+  },
+  {
+    "code": "25-4011.00",
+    "title": "Archivists",
+    "label": "25-4011.00 Archivists"
+  },
+  {
+    "code": "25-4012.00",
+    "title": "Curators",
+    "label": "25-4012.00 Curators"
+  },
+  {
+    "code": "25-4013.00",
+    "title": "Museum Technicians and Conservators",
+    "label": "25-4013.00 Museum Technicians and Conservators"
+  },
+  {
+    "code": "25-4022.00",
+    "title": "Librarians and Media Collections Specialists",
+    "label": "25-4022.00 Librarians and Media Collections Specialists"
+  },
+  {
+    "code": "25-4031.00",
+    "title": "Library Technicians",
+    "label": "25-4031.00 Library Technicians"
+  },
+  {
+    "code": "25-9021.00",
+    "title": "Farm and Home Management Educators",
+    "label": "25-9021.00 Farm and Home Management Educators"
+  },
+  {
+    "code": "25-9031.00",
+    "title": "Instructional Coordinators",
+    "label": "25-9031.00 Instructional Coordinators"
+  },
+  {
+    "code": "25-9042.00",
+    "title": "Teaching Assistants  Preschool  Elementary  Middle  and Secondary School  Except Special Education",
+    "label": "25-9042.00 Teaching Assistants  Preschool  Elementary  Middle  and Secondary School  Except Special Education"
+  },
+  {
+    "code": "25-9043.00",
+    "title": "Teaching Assistants  Special Education",
+    "label": "25-9043.00 Teaching Assistants  Special Education"
+  },
+  {
+    "code": "25-9044.00",
+    "title": "Teaching Assistants  Postsecondary",
+    "label": "25-9044.00 Teaching Assistants  Postsecondary"
+  },
+  {
+    "code": "25-9049.00",
+    "title": "Teaching Assistants  All Other",
+    "label": "25-9049.00 Teaching Assistants  All Other"
+  },
+  {
+    "code": "25-9099.00",
+    "title": "Educational Instruction and Library Workers  All Other",
+    "label": "25-9099.00 Educational Instruction and Library Workers  All Other"
+  },
+  {
+    "code": "27-1011.00",
+    "title": "Art Directors",
+    "label": "27-1011.00 Art Directors"
+  },
+  {
+    "code": "27-1012.00",
+    "title": "Craft Artists",
+    "label": "27-1012.00 Craft Artists"
+  },
+  {
+    "code": "27-1013.00",
+    "title": "Fine Artists  Including Painters  Sculptors  and Illustrators",
+    "label": "27-1013.00 Fine Artists  Including Painters  Sculptors  and Illustrators"
+  },
+  {
+    "code": "27-1014.00",
+    "title": "Special Effects Artists and Animators",
+    "label": "27-1014.00 Special Effects Artists and Animators"
+  },
+  {
+    "code": "27-1019.00",
+    "title": "Artists and Related Workers  All Other",
+    "label": "27-1019.00 Artists and Related Workers  All Other"
+  },
+  {
+    "code": "27-1021.00",
+    "title": "Commercial and Industrial Designers",
+    "label": "27-1021.00 Commercial and Industrial Designers"
+  },
+  {
+    "code": "27-1022.00",
+    "title": "Fashion Designers",
+    "label": "27-1022.00 Fashion Designers"
+  },
+  {
+    "code": "27-1023.00",
+    "title": "Floral Designers",
+    "label": "27-1023.00 Floral Designers"
+  },
+  {
+    "code": "27-1024.00",
+    "title": "Graphic Designers",
+    "label": "27-1024.00 Graphic Designers"
+  },
+  {
+    "code": "27-1025.00",
+    "title": "Interior Designers",
+    "label": "27-1025.00 Interior Designers"
+  },
+  {
+    "code": "27-1026.00",
+    "title": "Merchandise Displayers and Window Trimmers",
+    "label": "27-1026.00 Merchandise Displayers and Window Trimmers"
+  },
+  {
+    "code": "27-1027.00",
+    "title": "Set and Exhibit Designers",
+    "label": "27-1027.00 Set and Exhibit Designers"
+  },
+  {
+    "code": "27-1029.00",
+    "title": "Designers  All Other",
+    "label": "27-1029.00 Designers  All Other"
+  },
+  {
+    "code": "27-2011.00",
+    "title": "Actors",
+    "label": "27-2011.00 Actors"
+  },
+  {
+    "code": "27-2012.00",
+    "title": "Producers and Directors",
+    "label": "27-2012.00 Producers and Directors"
+  },
+  {
+    "code": "27-2012.03",
+    "title": "Media Programming Directors",
+    "label": "27-2012.03 Media Programming Directors"
+  },
+  {
+    "code": "27-2012.04",
+    "title": "Talent Directors",
+    "label": "27-2012.04 Talent Directors"
+  },
+  {
+    "code": "27-2012.05",
+    "title": "Media Technical Directors-Managers",
+    "label": "27-2012.05 Media Technical Directors-Managers"
+  },
+  {
+    "code": "27-2021.00",
+    "title": "Athletes and Sports Competitors",
+    "label": "27-2021.00 Athletes and Sports Competitors"
+  },
+  {
+    "code": "27-2022.00",
+    "title": "Coaches and Scouts",
+    "label": "27-2022.00 Coaches and Scouts"
+  },
+  {
+    "code": "27-2023.00",
+    "title": "Umpires  Referees  and Other Sports Officials",
+    "label": "27-2023.00 Umpires  Referees  and Other Sports Officials"
+  },
+  {
+    "code": "27-2031.00",
+    "title": "Dancers",
+    "label": "27-2031.00 Dancers"
+  },
+  {
+    "code": "27-2032.00",
+    "title": "Choreographers",
+    "label": "27-2032.00 Choreographers"
+  },
+  {
+    "code": "27-2041.00",
+    "title": "Music Directors and Composers",
+    "label": "27-2041.00 Music Directors and Composers"
+  },
+  {
+    "code": "27-2042.00",
+    "title": "Musicians and Singers",
+    "label": "27-2042.00 Musicians and Singers"
+  },
+  {
+    "code": "27-2091.00",
+    "title": "Disc Jockeys  Except Radio",
+    "label": "27-2091.00 Disc Jockeys  Except Radio"
+  },
+  {
+    "code": "27-2099.00",
+    "title": "Entertainers and Performers  Sports and Related Workers  All Other",
+    "label": "27-2099.00 Entertainers and Performers  Sports and Related Workers  All Other"
+  },
+  {
+    "code": "27-3011.00",
+    "title": "Broadcast Announcers and Radio Disc Jockeys",
+    "label": "27-3011.00 Broadcast Announcers and Radio Disc Jockeys"
+  },
+  {
+    "code": "27-3023.00",
+    "title": "News Analysts  Reporters  and Journalists",
+    "label": "27-3023.00 News Analysts  Reporters  and Journalists"
+  },
+  {
+    "code": "27-3031.00",
+    "title": "Public Relations Specialists",
+    "label": "27-3031.00 Public Relations Specialists"
+  },
+  {
+    "code": "27-3041.00",
+    "title": "Editors",
+    "label": "27-3041.00 Editors"
+  },
+  {
+    "code": "27-3042.00",
+    "title": "Technical Writers",
+    "label": "27-3042.00 Technical Writers"
+  },
+  {
+    "code": "27-3043.00",
+    "title": "Writers and Authors",
+    "label": "27-3043.00 Writers and Authors"
+  },
+  {
+    "code": "27-3043.05",
+    "title": "Poets  Lyricists and Creative Writers",
+    "label": "27-3043.05 Poets  Lyricists and Creative Writers"
+  },
+  {
+    "code": "27-3091.00",
+    "title": "Interpreters and Translators",
+    "label": "27-3091.00 Interpreters and Translators"
+  },
+  {
+    "code": "27-3092.00",
+    "title": "Court Reporters and Simultaneous Captioners",
+    "label": "27-3092.00 Court Reporters and Simultaneous Captioners"
+  },
+  {
+    "code": "27-3099.00",
+    "title": "Media and Communication Workers  All Other",
+    "label": "27-3099.00 Media and Communication Workers  All Other"
+  },
+  {
+    "code": "27-4011.00",
+    "title": "Audio and Video Technicians",
+    "label": "27-4011.00 Audio and Video Technicians"
+  },
+  {
+    "code": "27-4012.00",
+    "title": "Broadcast Technicians",
+    "label": "27-4012.00 Broadcast Technicians"
+  },
+  {
+    "code": "27-4014.00",
+    "title": "Sound Engineering Technicians",
+    "label": "27-4014.00 Sound Engineering Technicians"
+  },
+  {
+    "code": "27-4015.00",
+    "title": "Lighting Technicians",
+    "label": "27-4015.00 Lighting Technicians"
+  },
+  {
+    "code": "27-4021.00",
+    "title": "Photographers",
+    "label": "27-4021.00 Photographers"
+  },
+  {
+    "code": "27-4031.00",
+    "title": "Camera Operators  Television  Video  and Film",
+    "label": "27-4031.00 Camera Operators  Television  Video  and Film"
+  },
+  {
+    "code": "27-4032.00",
+    "title": "Film and Video Editors",
+    "label": "27-4032.00 Film and Video Editors"
+  },
+  {
+    "code": "27-4099.00",
+    "title": "Media and Communication Equipment Workers  All Other",
+    "label": "27-4099.00 Media and Communication Equipment Workers  All Other"
+  },
+  {
+    "code": "29-1011.00",
+    "title": "Chiropractors",
+    "label": "29-1011.00 Chiropractors"
+  },
+  {
+    "code": "29-1021.00",
+    "title": "Dentists  General",
+    "label": "29-1021.00 Dentists  General"
+  },
+  {
+    "code": "29-1022.00",
+    "title": "Oral and Maxillofacial Surgeons",
+    "label": "29-1022.00 Oral and Maxillofacial Surgeons"
+  },
+  {
+    "code": "29-1023.00",
+    "title": "Orthodontists",
+    "label": "29-1023.00 Orthodontists"
+  },
+  {
+    "code": "29-1024.00",
+    "title": "Prosthodontists",
+    "label": "29-1024.00 Prosthodontists"
+  },
+  {
+    "code": "29-1029.00",
+    "title": "Dentists  All Other Specialists",
+    "label": "29-1029.00 Dentists  All Other Specialists"
+  },
+  {
+    "code": "29-1031.00",
+    "title": "Dietitians and Nutritionists",
+    "label": "29-1031.00 Dietitians and Nutritionists"
+  },
+  {
+    "code": "29-1041.00",
+    "title": "Optometrists",
+    "label": "29-1041.00 Optometrists"
+  },
+  {
+    "code": "29-1051.00",
+    "title": "Pharmacists",
+    "label": "29-1051.00 Pharmacists"
+  },
+  {
+    "code": "29-1071.00",
+    "title": "Physician Assistants",
+    "label": "29-1071.00 Physician Assistants"
+  },
+  {
+    "code": "29-1071.01",
+    "title": "Anesthesiologist Assistants",
+    "label": "29-1071.01 Anesthesiologist Assistants"
+  },
+  {
+    "code": "29-1081.00",
+    "title": "Podiatrists",
+    "label": "29-1081.00 Podiatrists"
+  },
+  {
+    "code": "29-1122.00",
+    "title": "Occupational Therapists",
+    "label": "29-1122.00 Occupational Therapists"
+  },
+  {
+    "code": "29-1122.01",
+    "title": "Low Vision Therapists  Orientation and Mobility Specialists  and Vision Rehabilitation Therapists",
+    "label": "29-1122.01 Low Vision Therapists  Orientation and Mobility Specialists  and Vision Rehabilitation Therapists"
+  },
+  {
+    "code": "29-1123.00",
+    "title": "Physical Therapists",
+    "label": "29-1123.00 Physical Therapists"
+  },
+  {
+    "code": "29-1124.00",
+    "title": "Radiation Therapists",
+    "label": "29-1124.00 Radiation Therapists"
+  },
+  {
+    "code": "29-1125.00",
+    "title": "Recreational Therapists",
+    "label": "29-1125.00 Recreational Therapists"
+  },
+  {
+    "code": "29-1126.00",
+    "title": "Respiratory Therapists",
+    "label": "29-1126.00 Respiratory Therapists"
+  },
+  {
+    "code": "29-1127.00",
+    "title": "Speech-Language Pathologists",
+    "label": "29-1127.00 Speech-Language Pathologists"
+  },
+  {
+    "code": "29-1128.00",
+    "title": "Exercise Physiologists",
+    "label": "29-1128.00 Exercise Physiologists"
+  },
+  {
+    "code": "29-1129.00",
+    "title": "Therapists  All Other",
+    "label": "29-1129.00 Therapists  All Other"
+  },
+  {
+    "code": "29-1129.01",
+    "title": "Art Therapists",
+    "label": "29-1129.01 Art Therapists"
+  },
+  {
+    "code": "29-1129.02",
+    "title": "Music Therapists",
+    "label": "29-1129.02 Music Therapists"
+  },
+  {
+    "code": "29-1131.00",
+    "title": "Veterinarians",
+    "label": "29-1131.00 Veterinarians"
+  },
+  {
+    "code": "29-1141.00",
+    "title": "Registered Nurses",
+    "label": "29-1141.00 Registered Nurses"
+  },
+  {
+    "code": "29-1141.01",
+    "title": "Acute Care Nurses",
+    "label": "29-1141.01 Acute Care Nurses"
+  },
+  {
+    "code": "29-1141.02",
+    "title": "Advanced Practice Psychiatric Nurses",
+    "label": "29-1141.02 Advanced Practice Psychiatric Nurses"
+  },
+  {
+    "code": "29-1141.03",
+    "title": "Critical Care Nurses",
+    "label": "29-1141.03 Critical Care Nurses"
+  },
+  {
+    "code": "29-1141.04",
+    "title": "Clinical Nurse Specialists",
+    "label": "29-1141.04 Clinical Nurse Specialists"
+  },
+  {
+    "code": "29-1151.00",
+    "title": "Nurse Anesthetists",
+    "label": "29-1151.00 Nurse Anesthetists"
+  },
+  {
+    "code": "29-1161.00",
+    "title": "Nurse Midwives",
+    "label": "29-1161.00 Nurse Midwives"
+  },
+  {
+    "code": "29-1171.00",
+    "title": "Nurse Practitioners",
+    "label": "29-1171.00 Nurse Practitioners"
+  },
+  {
+    "code": "29-1181.00",
+    "title": "Audiologists",
+    "label": "29-1181.00 Audiologists"
+  },
+  {
+    "code": "29-1211.00",
+    "title": "Anesthesiologists",
+    "label": "29-1211.00 Anesthesiologists"
+  },
+  {
+    "code": "29-1212.00",
+    "title": "Cardiologists",
+    "label": "29-1212.00 Cardiologists"
+  },
+  {
+    "code": "29-1213.00",
+    "title": "Dermatologists",
+    "label": "29-1213.00 Dermatologists"
+  },
+  {
+    "code": "29-1214.00",
+    "title": "Emergency Medicine Physicians",
+    "label": "29-1214.00 Emergency Medicine Physicians"
+  },
+  {
+    "code": "29-1215.00",
+    "title": "Family Medicine Physicians",
+    "label": "29-1215.00 Family Medicine Physicians"
+  },
+  {
+    "code": "29-1216.00",
+    "title": "General Internal Medicine Physicians",
+    "label": "29-1216.00 General Internal Medicine Physicians"
+  },
+  {
+    "code": "29-1217.00",
+    "title": "Neurologists",
+    "label": "29-1217.00 Neurologists"
+  },
+  {
+    "code": "29-1218.00",
+    "title": "Obstetricians and Gynecologists",
+    "label": "29-1218.00 Obstetricians and Gynecologists"
+  },
+  {
+    "code": "29-1221.00",
+    "title": "Pediatricians  General",
+    "label": "29-1221.00 Pediatricians  General"
+  },
+  {
+    "code": "29-1222.00",
+    "title": "Physicians  Pathologists",
+    "label": "29-1222.00 Physicians  Pathologists"
+  },
+  {
+    "code": "29-1223.00",
+    "title": "Psychiatrists",
+    "label": "29-1223.00 Psychiatrists"
+  },
+  {
+    "code": "29-1224.00",
+    "title": "Radiologists",
+    "label": "29-1224.00 Radiologists"
+  },
+  {
+    "code": "29-1229.00",
+    "title": "Physicians  All Other",
+    "label": "29-1229.00 Physicians  All Other"
+  },
+  {
+    "code": "29-1229.01",
+    "title": "Allergists and Immunologists",
+    "label": "29-1229.01 Allergists and Immunologists"
+  },
+  {
+    "code": "29-1229.02",
+    "title": "Hospitalists",
+    "label": "29-1229.02 Hospitalists"
+  },
+  {
+    "code": "29-1229.03",
+    "title": "Urologists",
+    "label": "29-1229.03 Urologists"
+  },
+  {
+    "code": "29-1229.04",
+    "title": "Physical Medicine and Rehabilitation Physicians",
+    "label": "29-1229.04 Physical Medicine and Rehabilitation Physicians"
+  },
+  {
+    "code": "29-1229.05",
+    "title": "Preventive Medicine Physicians",
+    "label": "29-1229.05 Preventive Medicine Physicians"
+  },
+  {
+    "code": "29-1229.06",
+    "title": "Sports Medicine Physicians",
+    "label": "29-1229.06 Sports Medicine Physicians"
+  },
+  {
+    "code": "29-1241.00",
+    "title": "Ophthalmologists  Except Pediatric",
+    "label": "29-1241.00 Ophthalmologists  Except Pediatric"
+  },
+  {
+    "code": "29-1242.00",
+    "title": "Orthopedic Surgeons  Except Pediatric",
+    "label": "29-1242.00 Orthopedic Surgeons  Except Pediatric"
+  },
+  {
+    "code": "29-1243.00",
+    "title": "Pediatric Surgeons",
+    "label": "29-1243.00 Pediatric Surgeons"
+  },
+  {
+    "code": "29-1249.00",
+    "title": "Surgeons  All Other",
+    "label": "29-1249.00 Surgeons  All Other"
+  },
+  {
+    "code": "29-1291.00",
+    "title": "Acupuncturists",
+    "label": "29-1291.00 Acupuncturists"
+  },
+  {
+    "code": "29-1292.00",
+    "title": "Dental Hygienists",
+    "label": "29-1292.00 Dental Hygienists"
+  },
+  {
+    "code": "29-1299.00",
+    "title": "Healthcare Diagnosing or Treating Practitioners  All Other",
+    "label": "29-1299.00 Healthcare Diagnosing or Treating Practitioners  All Other"
+  },
+  {
+    "code": "29-1299.01",
+    "title": "Naturopathic Physicians",
+    "label": "29-1299.01 Naturopathic Physicians"
+  },
+  {
+    "code": "29-1299.02",
+    "title": "Orthoptists",
+    "label": "29-1299.02 Orthoptists"
+  },
+  {
+    "code": "29-2011.00",
+    "title": "Medical and Clinical Laboratory Technologists",
+    "label": "29-2011.00 Medical and Clinical Laboratory Technologists"
+  },
+  {
+    "code": "29-2011.01",
+    "title": "Cytogenetic Technologists",
+    "label": "29-2011.01 Cytogenetic Technologists"
+  },
+  {
+    "code": "29-2011.02",
+    "title": "Cytotechnologists",
+    "label": "29-2011.02 Cytotechnologists"
+  },
+  {
+    "code": "29-2011.04",
+    "title": "Histotechnologists",
+    "label": "29-2011.04 Histotechnologists"
+  },
+  {
+    "code": "29-2012.00",
+    "title": "Medical and Clinical Laboratory Technicians",
+    "label": "29-2012.00 Medical and Clinical Laboratory Technicians"
+  },
+  {
+    "code": "29-2012.01",
+    "title": "Histology Technicians",
+    "label": "29-2012.01 Histology Technicians"
+  },
+  {
+    "code": "29-2031.00",
+    "title": "Cardiovascular Technologists and Technicians",
+    "label": "29-2031.00 Cardiovascular Technologists and Technicians"
+  },
+  {
+    "code": "29-2032.00",
+    "title": "Diagnostic Medical Sonographers",
+    "label": "29-2032.00 Diagnostic Medical Sonographers"
+  },
+  {
+    "code": "29-2033.00",
+    "title": "Nuclear Medicine Technologists",
+    "label": "29-2033.00 Nuclear Medicine Technologists"
+  },
+  {
+    "code": "29-2034.00",
+    "title": "Radiologic Technologists and Technicians",
+    "label": "29-2034.00 Radiologic Technologists and Technicians"
+  },
+  {
+    "code": "29-2035.00",
+    "title": "Magnetic Resonance Imaging Technologists",
+    "label": "29-2035.00 Magnetic Resonance Imaging Technologists"
+  },
+  {
+    "code": "29-2036.00",
+    "title": "Medical Dosimetrists",
+    "label": "29-2036.00 Medical Dosimetrists"
+  },
+  {
+    "code": "29-2042.00",
+    "title": "Emergency Medical Technicians",
+    "label": "29-2042.00 Emergency Medical Technicians"
+  },
+  {
+    "code": "29-2043.00",
+    "title": "Paramedics",
+    "label": "29-2043.00 Paramedics"
+  },
+  {
+    "code": "29-2051.00",
+    "title": "Dietetic Technicians",
+    "label": "29-2051.00 Dietetic Technicians"
+  },
+  {
+    "code": "29-2052.00",
+    "title": "Pharmacy Technicians",
+    "label": "29-2052.00 Pharmacy Technicians"
+  },
+  {
+    "code": "29-2053.00",
+    "title": "Psychiatric Technicians",
+    "label": "29-2053.00 Psychiatric Technicians"
+  },
+  {
+    "code": "29-2055.00",
+    "title": "Surgical Technologists",
+    "label": "29-2055.00 Surgical Technologists"
+  },
+  {
+    "code": "29-2056.00",
+    "title": "Veterinary Technologists and Technicians",
+    "label": "29-2056.00 Veterinary Technologists and Technicians"
+  },
+  {
+    "code": "29-2057.00",
+    "title": "Ophthalmic Medical Technicians",
+    "label": "29-2057.00 Ophthalmic Medical Technicians"
+  },
+  {
+    "code": "29-2061.00",
+    "title": "Licensed Practical and Licensed Vocational Nurses",
+    "label": "29-2061.00 Licensed Practical and Licensed Vocational Nurses"
+  },
+  {
+    "code": "29-2072.00",
+    "title": "Medical Records Specialists",
+    "label": "29-2072.00 Medical Records Specialists"
+  },
+  {
+    "code": "29-2081.00",
+    "title": "Opticians  Dispensing",
+    "label": "29-2081.00 Opticians  Dispensing"
+  },
+  {
+    "code": "29-2091.00",
+    "title": "Orthotists and Prosthetists",
+    "label": "29-2091.00 Orthotists and Prosthetists"
+  },
+  {
+    "code": "29-2092.00",
+    "title": "Hearing Aid Specialists",
+    "label": "29-2092.00 Hearing Aid Specialists"
+  },
+  {
+    "code": "29-2099.00",
+    "title": "Health Technologists and Technicians  All Other",
+    "label": "29-2099.00 Health Technologists and Technicians  All Other"
+  },
+  {
+    "code": "29-2099.01",
+    "title": "Neurodiagnostic Technologists",
+    "label": "29-2099.01 Neurodiagnostic Technologists"
+  },
+  {
+    "code": "29-2099.05",
+    "title": "Ophthalmic Medical Technologists",
+    "label": "29-2099.05 Ophthalmic Medical Technologists"
+  },
+  {
+    "code": "29-2099.08",
+    "title": "Patient Representatives",
+    "label": "29-2099.08 Patient Representatives"
+  },
+  {
+    "code": "29-9021.00",
+    "title": "Health Information Technologists and Medical Registrars",
+    "label": "29-9021.00 Health Information Technologists and Medical Registrars"
+  },
+  {
+    "code": "29-9091.00",
+    "title": "Athletic Trainers",
+    "label": "29-9091.00 Athletic Trainers"
+  },
+  {
+    "code": "29-9092.00",
+    "title": "Genetic Counselors",
+    "label": "29-9092.00 Genetic Counselors"
+  },
+  {
+    "code": "29-9093.00",
+    "title": "Surgical Assistants",
+    "label": "29-9093.00 Surgical Assistants"
+  },
+  {
+    "code": "29-9099.00",
+    "title": "Healthcare Practitioners and Technical Workers  All Other",
+    "label": "29-9099.00 Healthcare Practitioners and Technical Workers  All Other"
+  },
+  {
+    "code": "29-9099.01",
+    "title": "Midwives",
+    "label": "29-9099.01 Midwives"
+  },
+  {
+    "code": "31-1121.00",
+    "title": "Home Health Aides",
+    "label": "31-1121.00 Home Health Aides"
+  },
+  {
+    "code": "31-1122.00",
+    "title": "Personal Care Aides",
+    "label": "31-1122.00 Personal Care Aides"
+  },
+  {
+    "code": "31-1131.00",
+    "title": "Nursing Assistants",
+    "label": "31-1131.00 Nursing Assistants"
+  },
+  {
+    "code": "31-1132.00",
+    "title": "Orderlies",
+    "label": "31-1132.00 Orderlies"
+  },
+  {
+    "code": "31-1133.00",
+    "title": "Psychiatric Aides",
+    "label": "31-1133.00 Psychiatric Aides"
+  },
+  {
+    "code": "31-2011.00",
+    "title": "Occupational Therapy Assistants",
+    "label": "31-2011.00 Occupational Therapy Assistants"
+  },
+  {
+    "code": "31-2012.00",
+    "title": "Occupational Therapy Aides",
+    "label": "31-2012.00 Occupational Therapy Aides"
+  },
+  {
+    "code": "31-2021.00",
+    "title": "Physical Therapist Assistants",
+    "label": "31-2021.00 Physical Therapist Assistants"
+  },
+  {
+    "code": "31-2022.00",
+    "title": "Physical Therapist Aides",
+    "label": "31-2022.00 Physical Therapist Aides"
+  },
+  {
+    "code": "31-9011.00",
+    "title": "Massage Therapists",
+    "label": "31-9011.00 Massage Therapists"
+  },
+  {
+    "code": "31-9091.00",
+    "title": "Dental Assistants",
+    "label": "31-9091.00 Dental Assistants"
+  },
+  {
+    "code": "31-9092.00",
+    "title": "Medical Assistants",
+    "label": "31-9092.00 Medical Assistants"
+  },
+  {
+    "code": "31-9093.00",
+    "title": "Medical Equipment Preparers",
+    "label": "31-9093.00 Medical Equipment Preparers"
+  },
+  {
+    "code": "31-9094.00",
+    "title": "Medical Transcriptionists",
+    "label": "31-9094.00 Medical Transcriptionists"
+  },
+  {
+    "code": "31-9095.00",
+    "title": "Pharmacy Aides",
+    "label": "31-9095.00 Pharmacy Aides"
+  },
+  {
+    "code": "31-9096.00",
+    "title": "Veterinary Assistants and Laboratory Animal Caretakers",
+    "label": "31-9096.00 Veterinary Assistants and Laboratory Animal Caretakers"
+  },
+  {
+    "code": "31-9097.00",
+    "title": "Phlebotomists",
+    "label": "31-9097.00 Phlebotomists"
+  },
+  {
+    "code": "31-9099.00",
+    "title": "Healthcare Support Workers  All Other",
+    "label": "31-9099.00 Healthcare Support Workers  All Other"
+  },
+  {
+    "code": "31-9099.01",
+    "title": "Speech-Language Pathology Assistants",
+    "label": "31-9099.01 Speech-Language Pathology Assistants"
+  },
+  {
+    "code": "31-9099.02",
+    "title": "Endoscopy Technicians",
+    "label": "31-9099.02 Endoscopy Technicians"
+  },
+  {
+    "code": "33-1011.00",
+    "title": "First-Line Supervisors of Correctional Officers",
+    "label": "33-1011.00 First-Line Supervisors of Correctional Officers"
+  },
+  {
+    "code": "33-1012.00",
+    "title": "First-Line Supervisors of Police and Detectives",
+    "label": "33-1012.00 First-Line Supervisors of Police and Detectives"
+  },
+  {
+    "code": "33-1021.00",
+    "title": "First-Line Supervisors of Firefighting and Prevention Workers",
+    "label": "33-1021.00 First-Line Supervisors of Firefighting and Prevention Workers"
+  },
+  {
+    "code": "33-1091.00",
+    "title": "First-Line Supervisors of Security Workers",
+    "label": "33-1091.00 First-Line Supervisors of Security Workers"
+  },
+  {
+    "code": "33-1099.00",
+    "title": "First-Line Supervisors of Protective Service Workers  All Other",
+    "label": "33-1099.00 First-Line Supervisors of Protective Service Workers  All Other"
+  },
+  {
+    "code": "33-2011.00",
+    "title": "Firefighters",
+    "label": "33-2011.00 Firefighters"
+  },
+  {
+    "code": "33-2021.00",
+    "title": "Fire Inspectors and Investigators",
+    "label": "33-2021.00 Fire Inspectors and Investigators"
+  },
+  {
+    "code": "33-2022.00",
+    "title": "Forest Fire Inspectors and Prevention Specialists",
+    "label": "33-2022.00 Forest Fire Inspectors and Prevention Specialists"
+  },
+  {
+    "code": "33-3011.00",
+    "title": "Bailiffs",
+    "label": "33-3011.00 Bailiffs"
+  },
+  {
+    "code": "33-3012.00",
+    "title": "Correctional Officers and Jailers",
+    "label": "33-3012.00 Correctional Officers and Jailers"
+  },
+  {
+    "code": "33-3021.00",
+    "title": "Detectives and Criminal Investigators",
+    "label": "33-3021.00 Detectives and Criminal Investigators"
+  },
+  {
+    "code": "33-3021.02",
+    "title": "Police Identification and Records Officers",
+    "label": "33-3021.02 Police Identification and Records Officers"
+  },
+  {
+    "code": "33-3021.06",
+    "title": "Intelligence Analysts",
+    "label": "33-3021.06 Intelligence Analysts"
+  },
+  {
+    "code": "33-3031.00",
+    "title": "Fish and Game Wardens",
+    "label": "33-3031.00 Fish and Game Wardens"
+  },
+  {
+    "code": "33-3041.00",
+    "title": "Parking Enforcement Workers",
+    "label": "33-3041.00 Parking Enforcement Workers"
+  },
+  {
+    "code": "33-3051.00",
+    "title": "Police and Sheriff's Patrol Officers",
+    "label": "33-3051.00 Police and Sheriff's Patrol Officers"
+  },
+  {
+    "code": "33-3051.04",
+    "title": "Customs and Border Protection Officers",
+    "label": "33-3051.04 Customs and Border Protection Officers"
+  },
+  {
+    "code": "33-3052.00",
+    "title": "Transit and Railroad Police",
+    "label": "33-3052.00 Transit and Railroad Police"
+  },
+  {
+    "code": "33-9011.00",
+    "title": "Animal Control Workers",
+    "label": "33-9011.00 Animal Control Workers"
+  },
+  {
+    "code": "33-9021.00",
+    "title": "Private Detectives and Investigators",
+    "label": "33-9021.00 Private Detectives and Investigators"
+  },
+  {
+    "code": "33-9031.00",
+    "title": "Gambling Surveillance Officers and Gambling Investigators",
+    "label": "33-9031.00 Gambling Surveillance Officers and Gambling Investigators"
+  },
+  {
+    "code": "33-9032.00",
+    "title": "Security Guards",
+    "label": "33-9032.00 Security Guards"
+  },
+  {
+    "code": "33-9091.00",
+    "title": "Crossing Guards and Flaggers",
+    "label": "33-9091.00 Crossing Guards and Flaggers"
+  },
+  {
+    "code": "33-9092.00",
+    "title": "Lifeguards  Ski Patrol  and Other Recreational Protective Service Workers",
+    "label": "33-9092.00 Lifeguards  Ski Patrol  and Other Recreational Protective Service Workers"
+  },
+  {
+    "code": "33-9093.00",
+    "title": "Transportation Security Screeners",
+    "label": "33-9093.00 Transportation Security Screeners"
+  },
+  {
+    "code": "33-9094.00",
+    "title": "School Bus Monitors",
+    "label": "33-9094.00 School Bus Monitors"
+  },
+  {
+    "code": "33-9099.00",
+    "title": "Protective Service Workers  All Other",
+    "label": "33-9099.00 Protective Service Workers  All Other"
+  },
+  {
+    "code": "33-9099.02",
+    "title": "Retail Loss Prevention Specialists",
+    "label": "33-9099.02 Retail Loss Prevention Specialists"
+  },
+  {
+    "code": "35-1011.00",
+    "title": "Chefs and Head Cooks",
+    "label": "35-1011.00 Chefs and Head Cooks"
+  },
+  {
+    "code": "35-1012.00",
+    "title": "First-Line Supervisors of Food Preparation and Serving Workers",
+    "label": "35-1012.00 First-Line Supervisors of Food Preparation and Serving Workers"
+  },
+  {
+    "code": "35-2011.00",
+    "title": "Cooks  Fast Food",
+    "label": "35-2011.00 Cooks  Fast Food"
+  },
+  {
+    "code": "35-2012.00",
+    "title": "Cooks  Institution and Cafeteria",
+    "label": "35-2012.00 Cooks  Institution and Cafeteria"
+  },
+  {
+    "code": "35-2013.00",
+    "title": "Cooks  Private Household",
+    "label": "35-2013.00 Cooks  Private Household"
+  },
+  {
+    "code": "35-2014.00",
+    "title": "Cooks  Restaurant",
+    "label": "35-2014.00 Cooks  Restaurant"
+  },
+  {
+    "code": "35-2015.00",
+    "title": "Cooks  Short Order",
+    "label": "35-2015.00 Cooks  Short Order"
+  },
+  {
+    "code": "35-2019.00",
+    "title": "Cooks  All Other",
+    "label": "35-2019.00 Cooks  All Other"
+  },
+  {
+    "code": "35-2021.00",
+    "title": "Food Preparation Workers",
+    "label": "35-2021.00 Food Preparation Workers"
+  },
+  {
+    "code": "35-3011.00",
+    "title": "Bartenders",
+    "label": "35-3011.00 Bartenders"
+  },
+  {
+    "code": "35-3023.00",
+    "title": "Fast Food and Counter Workers",
+    "label": "35-3023.00 Fast Food and Counter Workers"
+  },
+  {
+    "code": "35-3023.01",
+    "title": "Baristas",
+    "label": "35-3023.01 Baristas"
+  },
+  {
+    "code": "35-3031.00",
+    "title": "Waiters and Waitresses",
+    "label": "35-3031.00 Waiters and Waitresses"
+  },
+  {
+    "code": "35-3041.00",
+    "title": "Food Servers  Nonrestaurant",
+    "label": "35-3041.00 Food Servers  Nonrestaurant"
+  },
+  {
+    "code": "35-9011.00",
+    "title": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+    "label": "35-9011.00 Dining Room and Cafeteria Attendants and Bartender Helpers"
+  },
+  {
+    "code": "35-9021.00",
+    "title": "Dishwashers",
+    "label": "35-9021.00 Dishwashers"
+  },
+  {
+    "code": "35-9031.00",
+    "title": "Hosts and Hostesses  Restaurant  Lounge  and Coffee Shop",
+    "label": "35-9031.00 Hosts and Hostesses  Restaurant  Lounge  and Coffee Shop"
+  },
+  {
+    "code": "35-9099.00",
+    "title": "Food Preparation and Serving Related Workers  All Other",
+    "label": "35-9099.00 Food Preparation and Serving Related Workers  All Other"
+  },
+  {
+    "code": "37-1011.00",
+    "title": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+    "label": "37-1011.00 First-Line Supervisors of Housekeeping and Janitorial Workers"
+  },
+  {
+    "code": "37-1012.00",
+    "title": "First-Line Supervisors of Landscaping  Lawn Service  and Groundskeeping Workers",
+    "label": "37-1012.00 First-Line Supervisors of Landscaping  Lawn Service  and Groundskeeping Workers"
+  },
+  {
+    "code": "37-2011.00",
+    "title": "Janitors and Cleaners  Except Maids and Housekeeping Cleaners",
+    "label": "37-2011.00 Janitors and Cleaners  Except Maids and Housekeeping Cleaners"
+  },
+  {
+    "code": "37-2012.00",
+    "title": "Maids and Housekeeping Cleaners",
+    "label": "37-2012.00 Maids and Housekeeping Cleaners"
+  },
+  {
+    "code": "37-2019.00",
+    "title": "Building Cleaning Workers  All Other",
+    "label": "37-2019.00 Building Cleaning Workers  All Other"
+  },
+  {
+    "code": "37-2021.00",
+    "title": "Pest Control Workers",
+    "label": "37-2021.00 Pest Control Workers"
+  },
+  {
+    "code": "37-3011.00",
+    "title": "Landscaping and Groundskeeping Workers",
+    "label": "37-3011.00 Landscaping and Groundskeeping Workers"
+  },
+  {
+    "code": "37-3012.00",
+    "title": "Pesticide Handlers  Sprayers  and Applicators  Vegetation",
+    "label": "37-3012.00 Pesticide Handlers  Sprayers  and Applicators  Vegetation"
+  },
+  {
+    "code": "37-3013.00",
+    "title": "Tree Trimmers and Pruners",
+    "label": "37-3013.00 Tree Trimmers and Pruners"
+  },
+  {
+    "code": "37-3019.00",
+    "title": "Grounds Maintenance Workers  All Other",
+    "label": "37-3019.00 Grounds Maintenance Workers  All Other"
+  },
+  {
+    "code": "39-1013.00",
+    "title": "First-Line Supervisors of Gambling Services Workers",
+    "label": "39-1013.00 First-Line Supervisors of Gambling Services Workers"
+  },
+  {
+    "code": "39-1014.00",
+    "title": "First-Line Supervisors of Entertainment and Recreation Workers  Except Gambling Services",
+    "label": "39-1014.00 First-Line Supervisors of Entertainment and Recreation Workers  Except Gambling Services"
+  },
+  {
+    "code": "39-1022.00",
+    "title": "First-Line Supervisors of Personal Service Workers",
+    "label": "39-1022.00 First-Line Supervisors of Personal Service Workers"
+  },
+  {
+    "code": "39-2011.00",
+    "title": "Animal Trainers",
+    "label": "39-2011.00 Animal Trainers"
+  },
+  {
+    "code": "39-2021.00",
+    "title": "Animal Caretakers",
+    "label": "39-2021.00 Animal Caretakers"
+  },
+  {
+    "code": "39-3011.00",
+    "title": "Gambling Dealers",
+    "label": "39-3011.00 Gambling Dealers"
+  },
+  {
+    "code": "39-3012.00",
+    "title": "Gambling and Sports Book Writers and Runners",
+    "label": "39-3012.00 Gambling and Sports Book Writers and Runners"
+  },
+  {
+    "code": "39-3019.00",
+    "title": "Gambling Service Workers  All Other",
+    "label": "39-3019.00 Gambling Service Workers  All Other"
+  },
+  {
+    "code": "39-3021.00",
+    "title": "Motion Picture Projectionists",
+    "label": "39-3021.00 Motion Picture Projectionists"
+  },
+  {
+    "code": "39-3031.00",
+    "title": "Ushers  Lobby Attendants  and Ticket Takers",
+    "label": "39-3031.00 Ushers  Lobby Attendants  and Ticket Takers"
+  },
+  {
+    "code": "39-3091.00",
+    "title": "Amusement and Recreation Attendants",
+    "label": "39-3091.00 Amusement and Recreation Attendants"
+  },
+  {
+    "code": "39-3092.00",
+    "title": "Costume Attendants",
+    "label": "39-3092.00 Costume Attendants"
+  },
+  {
+    "code": "39-3093.00",
+    "title": "Locker Room  Coatroom  and Dressing Room Attendants",
+    "label": "39-3093.00 Locker Room  Coatroom  and Dressing Room Attendants"
+  },
+  {
+    "code": "39-3099.00",
+    "title": "Entertainment Attendants and Related Workers  All Other",
+    "label": "39-3099.00 Entertainment Attendants and Related Workers  All Other"
+  },
+  {
+    "code": "39-4011.00",
+    "title": "Embalmers",
+    "label": "39-4011.00 Embalmers"
+  },
+  {
+    "code": "39-4012.00",
+    "title": "Crematory Operators",
+    "label": "39-4012.00 Crematory Operators"
+  },
+  {
+    "code": "39-4021.00",
+    "title": "Funeral Attendants",
+    "label": "39-4021.00 Funeral Attendants"
+  },
+  {
+    "code": "39-4031.00",
+    "title": "Morticians  Undertakers  and Funeral Arrangers",
+    "label": "39-4031.00 Morticians  Undertakers  and Funeral Arrangers"
+  },
+  {
+    "code": "39-5011.00",
+    "title": "Barbers",
+    "label": "39-5011.00 Barbers"
+  },
+  {
+    "code": "39-5012.00",
+    "title": "Hairdressers  Hairstylists  and Cosmetologists",
+    "label": "39-5012.00 Hairdressers  Hairstylists  and Cosmetologists"
+  },
+  {
+    "code": "39-5091.00",
+    "title": "Makeup Artists  Theatrical and Performance",
+    "label": "39-5091.00 Makeup Artists  Theatrical and Performance"
+  },
+  {
+    "code": "39-5092.00",
+    "title": "Manicurists and Pedicurists",
+    "label": "39-5092.00 Manicurists and Pedicurists"
+  },
+  {
+    "code": "39-5093.00",
+    "title": "Shampooers",
+    "label": "39-5093.00 Shampooers"
+  },
+  {
+    "code": "39-5094.00",
+    "title": "Skincare Specialists",
+    "label": "39-5094.00 Skincare Specialists"
+  },
+  {
+    "code": "39-6011.00",
+    "title": "Baggage Porters and Bellhops",
+    "label": "39-6011.00 Baggage Porters and Bellhops"
+  },
+  {
+    "code": "39-6012.00",
+    "title": "Concierges",
+    "label": "39-6012.00 Concierges"
+  },
+  {
+    "code": "39-7011.00",
+    "title": "Tour Guides and Escorts",
+    "label": "39-7011.00 Tour Guides and Escorts"
+  },
+  {
+    "code": "39-7012.00",
+    "title": "Travel Guides",
+    "label": "39-7012.00 Travel Guides"
+  },
+  {
+    "code": "39-9011.00",
+    "title": "Childcare Workers",
+    "label": "39-9011.00 Childcare Workers"
+  },
+  {
+    "code": "39-9011.01",
+    "title": "Nannies",
+    "label": "39-9011.01 Nannies"
+  },
+  {
+    "code": "39-9031.00",
+    "title": "Exercise Trainers and Group Fitness Instructors",
+    "label": "39-9031.00 Exercise Trainers and Group Fitness Instructors"
+  },
+  {
+    "code": "39-9032.00",
+    "title": "Recreation Workers",
+    "label": "39-9032.00 Recreation Workers"
+  },
+  {
+    "code": "39-9041.00",
+    "title": "Residential Advisors",
+    "label": "39-9041.00 Residential Advisors"
+  },
+  {
+    "code": "39-9099.00",
+    "title": "Personal Care and Service Workers  All Other",
+    "label": "39-9099.00 Personal Care and Service Workers  All Other"
+  },
+  {
+    "code": "41-1011.00",
+    "title": "First-Line Supervisors of Retail Sales Workers",
+    "label": "41-1011.00 First-Line Supervisors of Retail Sales Workers"
+  },
+  {
+    "code": "41-1012.00",
+    "title": "First-Line Supervisors of Non-Retail Sales Workers",
+    "label": "41-1012.00 First-Line Supervisors of Non-Retail Sales Workers"
+  },
+  {
+    "code": "41-2011.00",
+    "title": "Cashiers",
+    "label": "41-2011.00 Cashiers"
+  },
+  {
+    "code": "41-2012.00",
+    "title": "Gambling Change Persons and Booth Cashiers",
+    "label": "41-2012.00 Gambling Change Persons and Booth Cashiers"
+  },
+  {
+    "code": "41-2021.00",
+    "title": "Counter and Rental Clerks",
+    "label": "41-2021.00 Counter and Rental Clerks"
+  },
+  {
+    "code": "41-2022.00",
+    "title": "Parts Salespersons",
+    "label": "41-2022.00 Parts Salespersons"
+  },
+  {
+    "code": "41-2031.00",
+    "title": "Retail Salespersons",
+    "label": "41-2031.00 Retail Salespersons"
+  },
+  {
+    "code": "41-3011.00",
+    "title": "Advertising Sales Agents",
+    "label": "41-3011.00 Advertising Sales Agents"
+  },
+  {
+    "code": "41-3021.00",
+    "title": "Insurance Sales Agents",
+    "label": "41-3021.00 Insurance Sales Agents"
+  },
+  {
+    "code": "41-3031.00",
+    "title": "Securities  Commodities  and Financial Services Sales Agents",
+    "label": "41-3031.00 Securities  Commodities  and Financial Services Sales Agents"
+  },
+  {
+    "code": "41-3041.00",
+    "title": "Travel Agents",
+    "label": "41-3041.00 Travel Agents"
+  },
+  {
+    "code": "41-3091.00",
+    "title": "Sales Representatives of Services  Except Advertising  Insurance  Financial Services  and Travel",
+    "label": "41-3091.00 Sales Representatives of Services  Except Advertising  Insurance  Financial Services  and Travel"
+  },
+  {
+    "code": "41-4011.00",
+    "title": "Sales Representatives  Wholesale and Manufacturing  Technical and Scientific Products",
+    "label": "41-4011.00 Sales Representatives  Wholesale and Manufacturing  Technical and Scientific Products"
+  },
+  {
+    "code": "41-4011.07",
+    "title": "Solar Sales Representatives and Assessors",
+    "label": "41-4011.07 Solar Sales Representatives and Assessors"
+  },
+  {
+    "code": "41-4012.00",
+    "title": "Sales Representatives  Wholesale and Manufacturing  Except Technical and Scientific Products",
+    "label": "41-4012.00 Sales Representatives  Wholesale and Manufacturing  Except Technical and Scientific Products"
+  },
+  {
+    "code": "41-9011.00",
+    "title": "Demonstrators and Product Promoters",
+    "label": "41-9011.00 Demonstrators and Product Promoters"
+  },
+  {
+    "code": "41-9012.00",
+    "title": "Models",
+    "label": "41-9012.00 Models"
+  },
+  {
+    "code": "41-9021.00",
+    "title": "Real Estate Brokers",
+    "label": "41-9021.00 Real Estate Brokers"
+  },
+  {
+    "code": "41-9022.00",
+    "title": "Real Estate Sales Agents",
+    "label": "41-9022.00 Real Estate Sales Agents"
+  },
+  {
+    "code": "41-9031.00",
+    "title": "Sales Engineers",
+    "label": "41-9031.00 Sales Engineers"
+  },
+  {
+    "code": "41-9041.00",
+    "title": "Telemarketers",
+    "label": "41-9041.00 Telemarketers"
+  },
+  {
+    "code": "41-9091.00",
+    "title": "Door-to-Door Sales Workers  News and Street Vendors  and Related Workers",
+    "label": "41-9091.00 Door-to-Door Sales Workers  News and Street Vendors  and Related Workers"
+  },
+  {
+    "code": "41-9099.00",
+    "title": "Sales and Related Workers  All Other",
+    "label": "41-9099.00 Sales and Related Workers  All Other"
+  },
+  {
+    "code": "43-1011.00",
+    "title": "First-Line Supervisors of Office and Administrative Support Workers",
+    "label": "43-1011.00 First-Line Supervisors of Office and Administrative Support Workers"
+  },
+  {
+    "code": "43-2011.00",
+    "title": "Switchboard Operators  Including Answering Service",
+    "label": "43-2011.00 Switchboard Operators  Including Answering Service"
+  },
+  {
+    "code": "43-2021.00",
+    "title": "Telephone Operators",
+    "label": "43-2021.00 Telephone Operators"
+  },
+  {
+    "code": "43-2099.00",
+    "title": "Communications Equipment Operators  All Other",
+    "label": "43-2099.00 Communications Equipment Operators  All Other"
+  },
+  {
+    "code": "43-3011.00",
+    "title": "Bill and Account Collectors",
+    "label": "43-3011.00 Bill and Account Collectors"
+  },
+  {
+    "code": "43-3021.00",
+    "title": "Billing and Posting Clerks",
+    "label": "43-3021.00 Billing and Posting Clerks"
+  },
+  {
+    "code": "43-3031.00",
+    "title": "Bookkeeping  Accounting  and Auditing Clerks",
+    "label": "43-3031.00 Bookkeeping  Accounting  and Auditing Clerks"
+  },
+  {
+    "code": "43-3041.00",
+    "title": "Gambling Cage Workers",
+    "label": "43-3041.00 Gambling Cage Workers"
+  },
+  {
+    "code": "43-3051.00",
+    "title": "Payroll and Timekeeping Clerks",
+    "label": "43-3051.00 Payroll and Timekeeping Clerks"
+  },
+  {
+    "code": "43-3061.00",
+    "title": "Procurement Clerks",
+    "label": "43-3061.00 Procurement Clerks"
+  },
+  {
+    "code": "43-3071.00",
+    "title": "Tellers",
+    "label": "43-3071.00 Tellers"
+  },
+  {
+    "code": "43-3099.00",
+    "title": "Financial Clerks  All Other",
+    "label": "43-3099.00 Financial Clerks  All Other"
+  },
+  {
+    "code": "43-4011.00",
+    "title": "Brokerage Clerks",
+    "label": "43-4011.00 Brokerage Clerks"
+  },
+  {
+    "code": "43-4021.00",
+    "title": "Correspondence Clerks",
+    "label": "43-4021.00 Correspondence Clerks"
+  },
+  {
+    "code": "43-4031.00",
+    "title": "Court  Municipal  and License Clerks",
+    "label": "43-4031.00 Court  Municipal  and License Clerks"
+  },
+  {
+    "code": "43-4041.00",
+    "title": "Credit Authorizers  Checkers  and Clerks",
+    "label": "43-4041.00 Credit Authorizers  Checkers  and Clerks"
+  },
+  {
+    "code": "43-4051.00",
+    "title": "Customer Service Representatives",
+    "label": "43-4051.00 Customer Service Representatives"
+  },
+  {
+    "code": "43-4061.00",
+    "title": "Eligibility Interviewers  Government Programs",
+    "label": "43-4061.00 Eligibility Interviewers  Government Programs"
+  },
+  {
+    "code": "43-4071.00",
+    "title": "File Clerks",
+    "label": "43-4071.00 File Clerks"
+  },
+  {
+    "code": "43-4081.00",
+    "title": "Hotel  Motel  and Resort Desk Clerks",
+    "label": "43-4081.00 Hotel  Motel  and Resort Desk Clerks"
+  },
+  {
+    "code": "43-4111.00",
+    "title": "Interviewers  Except Eligibility and Loan",
+    "label": "43-4111.00 Interviewers  Except Eligibility and Loan"
+  },
+  {
+    "code": "43-4121.00",
+    "title": "Library Assistants  Clerical",
+    "label": "43-4121.00 Library Assistants  Clerical"
+  },
+  {
+    "code": "43-4131.00",
+    "title": "Loan Interviewers and Clerks",
+    "label": "43-4131.00 Loan Interviewers and Clerks"
+  },
+  {
+    "code": "43-4141.00",
+    "title": "New Accounts Clerks",
+    "label": "43-4141.00 New Accounts Clerks"
+  },
+  {
+    "code": "43-4151.00",
+    "title": "Order Clerks",
+    "label": "43-4151.00 Order Clerks"
+  },
+  {
+    "code": "43-4161.00",
+    "title": "Human Resources Assistants  Except Payroll and Timekeeping",
+    "label": "43-4161.00 Human Resources Assistants  Except Payroll and Timekeeping"
+  },
+  {
+    "code": "43-4171.00",
+    "title": "Receptionists and Information Clerks",
+    "label": "43-4171.00 Receptionists and Information Clerks"
+  },
+  {
+    "code": "43-4181.00",
+    "title": "Reservation and Transportation Ticket Agents and Travel Clerks",
+    "label": "43-4181.00 Reservation and Transportation Ticket Agents and Travel Clerks"
+  },
+  {
+    "code": "43-4199.00",
+    "title": "Information and Record Clerks  All Other",
+    "label": "43-4199.00 Information and Record Clerks  All Other"
+  },
+  {
+    "code": "43-5011.00",
+    "title": "Cargo and Freight Agents",
+    "label": "43-5011.00 Cargo and Freight Agents"
+  },
+  {
+    "code": "43-5011.01",
+    "title": "Freight Forwarders",
+    "label": "43-5011.01 Freight Forwarders"
+  },
+  {
+    "code": "43-5021.00",
+    "title": "Couriers and Messengers",
+    "label": "43-5021.00 Couriers and Messengers"
+  },
+  {
+    "code": "43-5031.00",
+    "title": "Public Safety Telecommunicators",
+    "label": "43-5031.00 Public Safety Telecommunicators"
+  },
+  {
+    "code": "43-5032.00",
+    "title": "Dispatchers  Except Police  Fire  and Ambulance",
+    "label": "43-5032.00 Dispatchers  Except Police  Fire  and Ambulance"
+  },
+  {
+    "code": "43-5041.00",
+    "title": "Meter Readers  Utilities",
+    "label": "43-5041.00 Meter Readers  Utilities"
+  },
+  {
+    "code": "43-5051.00",
+    "title": "Postal Service Clerks",
+    "label": "43-5051.00 Postal Service Clerks"
+  },
+  {
+    "code": "43-5052.00",
+    "title": "Postal Service Mail Carriers",
+    "label": "43-5052.00 Postal Service Mail Carriers"
+  },
+  {
+    "code": "43-5053.00",
+    "title": "Postal Service Mail Sorters  Processors  and Processing Machine Operators",
+    "label": "43-5053.00 Postal Service Mail Sorters  Processors  and Processing Machine Operators"
+  },
+  {
+    "code": "43-5061.00",
+    "title": "Production  Planning  and Expediting Clerks",
+    "label": "43-5061.00 Production  Planning  and Expediting Clerks"
+  },
+  {
+    "code": "43-5071.00",
+    "title": "Shipping  Receiving  and Inventory Clerks",
+    "label": "43-5071.00 Shipping  Receiving  and Inventory Clerks"
+  },
+  {
+    "code": "43-5111.00",
+    "title": "Weighers  Measurers  Checkers  and Samplers  Recordkeeping",
+    "label": "43-5111.00 Weighers  Measurers  Checkers  and Samplers  Recordkeeping"
+  },
+  {
+    "code": "43-6011.00",
+    "title": "Executive Secretaries and Executive Administrative Assistants",
+    "label": "43-6011.00 Executive Secretaries and Executive Administrative Assistants"
+  },
+  {
+    "code": "43-6012.00",
+    "title": "Legal Secretaries and Administrative Assistants",
+    "label": "43-6012.00 Legal Secretaries and Administrative Assistants"
+  },
+  {
+    "code": "43-6013.00",
+    "title": "Medical Secretaries and Administrative Assistants",
+    "label": "43-6013.00 Medical Secretaries and Administrative Assistants"
+  },
+  {
+    "code": "43-6014.00",
+    "title": "Secretaries and Administrative Assistants  Except Legal  Medical  and Executive",
+    "label": "43-6014.00 Secretaries and Administrative Assistants  Except Legal  Medical  and Executive"
+  },
+  {
+    "code": "43-9021.00",
+    "title": "Data Entry Keyers",
+    "label": "43-9021.00 Data Entry Keyers"
+  },
+  {
+    "code": "43-9022.00",
+    "title": "Word Processors and Typists",
+    "label": "43-9022.00 Word Processors and Typists"
+  },
+  {
+    "code": "43-9031.00",
+    "title": "Desktop Publishers",
+    "label": "43-9031.00 Desktop Publishers"
+  },
+  {
+    "code": "43-9041.00",
+    "title": "Insurance Claims and Policy Processing Clerks",
+    "label": "43-9041.00 Insurance Claims and Policy Processing Clerks"
+  },
+  {
+    "code": "43-9051.00",
+    "title": "Mail Clerks and Mail Machine Operators  Except Postal Service",
+    "label": "43-9051.00 Mail Clerks and Mail Machine Operators  Except Postal Service"
+  },
+  {
+    "code": "43-9061.00",
+    "title": "Office Clerks  General",
+    "label": "43-9061.00 Office Clerks  General"
+  },
+  {
+    "code": "43-9071.00",
+    "title": "Office Machine Operators  Except Computer",
+    "label": "43-9071.00 Office Machine Operators  Except Computer"
+  },
+  {
+    "code": "43-9081.00",
+    "title": "Proofreaders and Copy Markers",
+    "label": "43-9081.00 Proofreaders and Copy Markers"
+  },
+  {
+    "code": "43-9111.00",
+    "title": "Statistical Assistants",
+    "label": "43-9111.00 Statistical Assistants"
+  },
+  {
+    "code": "43-9199.00",
+    "title": "Office and Administrative Support Workers  All Other",
+    "label": "43-9199.00 Office and Administrative Support Workers  All Other"
+  },
+  {
+    "code": "45-1011.00",
+    "title": "First-Line Supervisors of Farming  Fishing  and Forestry Workers",
+    "label": "45-1011.00 First-Line Supervisors of Farming  Fishing  and Forestry Workers"
+  },
+  {
+    "code": "45-2011.00",
+    "title": "Agricultural Inspectors",
+    "label": "45-2011.00 Agricultural Inspectors"
+  },
+  {
+    "code": "45-2021.00",
+    "title": "Animal Breeders",
+    "label": "45-2021.00 Animal Breeders"
+  },
+  {
+    "code": "45-2041.00",
+    "title": "Graders and Sorters  Agricultural Products",
+    "label": "45-2041.00 Graders and Sorters  Agricultural Products"
+  },
+  {
+    "code": "45-2091.00",
+    "title": "Agricultural Equipment Operators",
+    "label": "45-2091.00 Agricultural Equipment Operators"
+  },
+  {
+    "code": "45-2092.00",
+    "title": "Farmworkers and Laborers  Crop  Nursery  and Greenhouse",
+    "label": "45-2092.00 Farmworkers and Laborers  Crop  Nursery  and Greenhouse"
+  },
+  {
+    "code": "45-2093.00",
+    "title": "Farmworkers  Farm  Ranch  and Aquacultural Animals",
+    "label": "45-2093.00 Farmworkers  Farm  Ranch  and Aquacultural Animals"
+  },
+  {
+    "code": "45-2099.00",
+    "title": "Agricultural Workers  All Other",
+    "label": "45-2099.00 Agricultural Workers  All Other"
+  },
+  {
+    "code": "45-3031.00",
+    "title": "Fishing and Hunting Workers",
+    "label": "45-3031.00 Fishing and Hunting Workers"
+  },
+  {
+    "code": "45-4011.00",
+    "title": "Forest and Conservation Workers",
+    "label": "45-4011.00 Forest and Conservation Workers"
+  },
+  {
+    "code": "45-4021.00",
+    "title": "Fallers",
+    "label": "45-4021.00 Fallers"
+  },
+  {
+    "code": "45-4022.00",
+    "title": "Logging Equipment Operators",
+    "label": "45-4022.00 Logging Equipment Operators"
+  },
+  {
+    "code": "45-4023.00",
+    "title": "Log Graders and Scalers",
+    "label": "45-4023.00 Log Graders and Scalers"
+  },
+  {
+    "code": "45-4029.00",
+    "title": "Logging Workers  All Other",
+    "label": "45-4029.00 Logging Workers  All Other"
+  },
+  {
+    "code": "47-1011.00",
+    "title": "First-Line Supervisors of Construction Trades and Extraction Workers",
+    "label": "47-1011.00 First-Line Supervisors of Construction Trades and Extraction Workers"
+  },
+  {
+    "code": "47-1011.03",
+    "title": "Solar Energy Installation Managers",
+    "label": "47-1011.03 Solar Energy Installation Managers"
+  },
+  {
+    "code": "47-2011.00",
+    "title": "Boilermakers",
+    "label": "47-2011.00 Boilermakers"
+  },
+  {
+    "code": "47-2021.00",
+    "title": "Brickmasons and Blockmasons",
+    "label": "47-2021.00 Brickmasons and Blockmasons"
+  },
+  {
+    "code": "47-2022.00",
+    "title": "Stonemasons",
+    "label": "47-2022.00 Stonemasons"
+  },
+  {
+    "code": "47-2031.00",
+    "title": "Carpenters",
+    "label": "47-2031.00 Carpenters"
+  },
+  {
+    "code": "47-2041.00",
+    "title": "Carpet Installers",
+    "label": "47-2041.00 Carpet Installers"
+  },
+  {
+    "code": "47-2042.00",
+    "title": "Floor Layers  Except Carpet  Wood  and Hard Tiles",
+    "label": "47-2042.00 Floor Layers  Except Carpet  Wood  and Hard Tiles"
+  },
+  {
+    "code": "47-2043.00",
+    "title": "Floor Sanders and Finishers",
+    "label": "47-2043.00 Floor Sanders and Finishers"
+  },
+  {
+    "code": "47-2044.00",
+    "title": "Tile and Stone Setters",
+    "label": "47-2044.00 Tile and Stone Setters"
+  },
+  {
+    "code": "47-2051.00",
+    "title": "Cement Masons and Concrete Finishers",
+    "label": "47-2051.00 Cement Masons and Concrete Finishers"
+  },
+  {
+    "code": "47-2053.00",
+    "title": "Terrazzo Workers and Finishers",
+    "label": "47-2053.00 Terrazzo Workers and Finishers"
+  },
+  {
+    "code": "47-2061.00",
+    "title": "Construction Laborers",
+    "label": "47-2061.00 Construction Laborers"
+  },
+  {
+    "code": "47-2071.00",
+    "title": "Paving  Surfacing  and Tamping Equipment Operators",
+    "label": "47-2071.00 Paving  Surfacing  and Tamping Equipment Operators"
+  },
+  {
+    "code": "47-2072.00",
+    "title": "Pile Driver Operators",
+    "label": "47-2072.00 Pile Driver Operators"
+  },
+  {
+    "code": "47-2073.00",
+    "title": "Operating Engineers and Other Construction Equipment Operators",
+    "label": "47-2073.00 Operating Engineers and Other Construction Equipment Operators"
+  },
+  {
+    "code": "47-2081.00",
+    "title": "Drywall and Ceiling Tile Installers",
+    "label": "47-2081.00 Drywall and Ceiling Tile Installers"
+  },
+  {
+    "code": "47-2082.00",
+    "title": "Tapers",
+    "label": "47-2082.00 Tapers"
+  },
+  {
+    "code": "47-2111.00",
+    "title": "Electricians",
+    "label": "47-2111.00 Electricians"
+  },
+  {
+    "code": "47-2121.00",
+    "title": "Glaziers",
+    "label": "47-2121.00 Glaziers"
+  },
+  {
+    "code": "47-2131.00",
+    "title": "Insulation Workers  Floor  Ceiling  and Wall",
+    "label": "47-2131.00 Insulation Workers  Floor  Ceiling  and Wall"
+  },
+  {
+    "code": "47-2132.00",
+    "title": "Insulation Workers  Mechanical",
+    "label": "47-2132.00 Insulation Workers  Mechanical"
+  },
+  {
+    "code": "47-2141.00",
+    "title": "Painters  Construction and Maintenance",
+    "label": "47-2141.00 Painters  Construction and Maintenance"
+  },
+  {
+    "code": "47-2142.00",
+    "title": "Paperhangers",
+    "label": "47-2142.00 Paperhangers"
+  },
+  {
+    "code": "47-2151.00",
+    "title": "Pipelayers",
+    "label": "47-2151.00 Pipelayers"
+  },
+  {
+    "code": "47-2152.00",
+    "title": "Plumbers  Pipefitters  and Steamfitters",
+    "label": "47-2152.00 Plumbers  Pipefitters  and Steamfitters"
+  },
+  {
+    "code": "47-2152.04",
+    "title": "Solar Thermal Installers and Technicians",
+    "label": "47-2152.04 Solar Thermal Installers and Technicians"
+  },
+  {
+    "code": "47-2161.00",
+    "title": "Plasterers and Stucco Masons",
+    "label": "47-2161.00 Plasterers and Stucco Masons"
+  },
+  {
+    "code": "47-2171.00",
+    "title": "Reinforcing Iron and Rebar Workers",
+    "label": "47-2171.00 Reinforcing Iron and Rebar Workers"
+  },
+  {
+    "code": "47-2181.00",
+    "title": "Roofers",
+    "label": "47-2181.00 Roofers"
+  },
+  {
+    "code": "47-2211.00",
+    "title": "Sheet Metal Workers",
+    "label": "47-2211.00 Sheet Metal Workers"
+  },
+  {
+    "code": "47-2221.00",
+    "title": "Structural Iron and Steel Workers",
+    "label": "47-2221.00 Structural Iron and Steel Workers"
+  },
+  {
+    "code": "47-2231.00",
+    "title": "Solar Photovoltaic Installers",
+    "label": "47-2231.00 Solar Photovoltaic Installers"
+  },
+  {
+    "code": "47-3011.00",
+    "title": "Helpers--Brickmasons  Blockmasons  Stonemasons  and Tile and Marble Setters",
+    "label": "47-3011.00 Helpers--Brickmasons  Blockmasons  Stonemasons  and Tile and Marble Setters"
+  },
+  {
+    "code": "47-3012.00",
+    "title": "Helpers--Carpenters",
+    "label": "47-3012.00 Helpers--Carpenters"
+  },
+  {
+    "code": "47-3013.00",
+    "title": "Helpers--Electricians",
+    "label": "47-3013.00 Helpers--Electricians"
+  },
+  {
+    "code": "47-3014.00",
+    "title": "Helpers--Painters  Paperhangers  Plasterers  and Stucco Masons",
+    "label": "47-3014.00 Helpers--Painters  Paperhangers  Plasterers  and Stucco Masons"
+  },
+  {
+    "code": "47-3015.00",
+    "title": "Helpers--Pipelayers  Plumbers  Pipefitters  and Steamfitters",
+    "label": "47-3015.00 Helpers--Pipelayers  Plumbers  Pipefitters  and Steamfitters"
+  },
+  {
+    "code": "47-3016.00",
+    "title": "Helpers--Roofers",
+    "label": "47-3016.00 Helpers--Roofers"
+  },
+  {
+    "code": "47-3019.00",
+    "title": "Helpers  Construction Trades  All Other",
+    "label": "47-3019.00 Helpers  Construction Trades  All Other"
+  },
+  {
+    "code": "47-4011.00",
+    "title": "Construction and Building Inspectors",
+    "label": "47-4011.00 Construction and Building Inspectors"
+  },
+  {
+    "code": "47-4011.01",
+    "title": "Energy Auditors",
+    "label": "47-4011.01 Energy Auditors"
+  },
+  {
+    "code": "47-4021.00",
+    "title": "Elevator and Escalator Installers and Repairers",
+    "label": "47-4021.00 Elevator and Escalator Installers and Repairers"
+  },
+  {
+    "code": "47-4031.00",
+    "title": "Fence Erectors",
+    "label": "47-4031.00 Fence Erectors"
+  },
+  {
+    "code": "47-4041.00",
+    "title": "Hazardous Materials Removal Workers",
+    "label": "47-4041.00 Hazardous Materials Removal Workers"
+  },
+  {
+    "code": "47-4051.00",
+    "title": "Highway Maintenance Workers",
+    "label": "47-4051.00 Highway Maintenance Workers"
+  },
+  {
+    "code": "47-4061.00",
+    "title": "Rail-Track Laying and Maintenance Equipment Operators",
+    "label": "47-4061.00 Rail-Track Laying and Maintenance Equipment Operators"
+  },
+  {
+    "code": "47-4071.00",
+    "title": "Septic Tank Servicers and Sewer Pipe Cleaners",
+    "label": "47-4071.00 Septic Tank Servicers and Sewer Pipe Cleaners"
+  },
+  {
+    "code": "47-4091.00",
+    "title": "Segmental Pavers",
+    "label": "47-4091.00 Segmental Pavers"
+  },
+  {
+    "code": "47-4099.00",
+    "title": "Construction and Related Workers  All Other",
+    "label": "47-4099.00 Construction and Related Workers  All Other"
+  },
+  {
+    "code": "47-4099.03",
+    "title": "Weatherization Installers and Technicians",
+    "label": "47-4099.03 Weatherization Installers and Technicians"
+  },
+  {
+    "code": "47-5011.00",
+    "title": "Derrick Operators  Oil and Gas",
+    "label": "47-5011.00 Derrick Operators  Oil and Gas"
+  },
+  {
+    "code": "47-5012.00",
+    "title": "Rotary Drill Operators  Oil and Gas",
+    "label": "47-5012.00 Rotary Drill Operators  Oil and Gas"
+  },
+  {
+    "code": "47-5013.00",
+    "title": "Service Unit Operators  Oil and Gas",
+    "label": "47-5013.00 Service Unit Operators  Oil and Gas"
+  },
+  {
+    "code": "47-5022.00",
+    "title": "Excavating and Loading Machine and Dragline Operators  Surface Mining",
+    "label": "47-5022.00 Excavating and Loading Machine and Dragline Operators  Surface Mining"
+  },
+  {
+    "code": "47-5023.00",
+    "title": "Earth Drillers  Except Oil and Gas",
+    "label": "47-5023.00 Earth Drillers  Except Oil and Gas"
+  },
+  {
+    "code": "47-5032.00",
+    "title": "Explosives Workers  Ordnance Handling Experts  and Blasters",
+    "label": "47-5032.00 Explosives Workers  Ordnance Handling Experts  and Blasters"
+  },
+  {
+    "code": "47-5041.00",
+    "title": "Continuous Mining Machine Operators",
+    "label": "47-5041.00 Continuous Mining Machine Operators"
+  },
+  {
+    "code": "47-5043.00",
+    "title": "Roof Bolters  Mining",
+    "label": "47-5043.00 Roof Bolters  Mining"
+  },
+  {
+    "code": "47-5044.00",
+    "title": "Loading and Moving Machine Operators  Underground Mining",
+    "label": "47-5044.00 Loading and Moving Machine Operators  Underground Mining"
+  },
+  {
+    "code": "47-5049.00",
+    "title": "Underground Mining Machine Operators  All Other",
+    "label": "47-5049.00 Underground Mining Machine Operators  All Other"
+  },
+  {
+    "code": "47-5051.00",
+    "title": "Rock Splitters  Quarry",
+    "label": "47-5051.00 Rock Splitters  Quarry"
+  },
+  {
+    "code": "47-5071.00",
+    "title": "Roustabouts  Oil and Gas",
+    "label": "47-5071.00 Roustabouts  Oil and Gas"
+  },
+  {
+    "code": "47-5081.00",
+    "title": "Helpers--Extraction Workers",
+    "label": "47-5081.00 Helpers--Extraction Workers"
+  },
+  {
+    "code": "47-5099.00",
+    "title": "Extraction Workers  All Other",
+    "label": "47-5099.00 Extraction Workers  All Other"
+  },
+  {
+    "code": "49-1011.00",
+    "title": "First-Line Supervisors of Mechanics  Installers  and Repairers",
+    "label": "49-1011.00 First-Line Supervisors of Mechanics  Installers  and Repairers"
+  },
+  {
+    "code": "49-2011.00",
+    "title": "Computer  Automated Teller  and Office Machine Repairers",
+    "label": "49-2011.00 Computer  Automated Teller  and Office Machine Repairers"
+  },
+  {
+    "code": "49-2021.00",
+    "title": "Radio  Cellular  and Tower Equipment Installers and Repairers",
+    "label": "49-2021.00 Radio  Cellular  and Tower Equipment Installers and Repairers"
+  },
+  {
+    "code": "49-2022.00",
+    "title": "Telecommunications Equipment Installers and Repairers  Except Line Installers",
+    "label": "49-2022.00 Telecommunications Equipment Installers and Repairers  Except Line Installers"
+  },
+  {
+    "code": "49-2091.00",
+    "title": "Avionics Technicians",
+    "label": "49-2091.00 Avionics Technicians"
+  },
+  {
+    "code": "49-2092.00",
+    "title": "Electric Motor  Power Tool  and Related Repairers",
+    "label": "49-2092.00 Electric Motor  Power Tool  and Related Repairers"
+  },
+  {
+    "code": "49-2093.00",
+    "title": "Electrical and Electronics Installers and Repairers  Transportation Equipment",
+    "label": "49-2093.00 Electrical and Electronics Installers and Repairers  Transportation Equipment"
+  },
+  {
+    "code": "49-2094.00",
+    "title": "Electrical and Electronics Repairers  Commercial and Industrial Equipment",
+    "label": "49-2094.00 Electrical and Electronics Repairers  Commercial and Industrial Equipment"
+  },
+  {
+    "code": "49-2095.00",
+    "title": "Electrical and Electronics Repairers  Powerhouse  Substation  and Relay",
+    "label": "49-2095.00 Electrical and Electronics Repairers  Powerhouse  Substation  and Relay"
+  },
+  {
+    "code": "49-2096.00",
+    "title": "Electronic Equipment Installers and Repairers  Motor Vehicles",
+    "label": "49-2096.00 Electronic Equipment Installers and Repairers  Motor Vehicles"
+  },
+  {
+    "code": "49-2097.00",
+    "title": "Audiovisual Equipment Installers and Repairers",
+    "label": "49-2097.00 Audiovisual Equipment Installers and Repairers"
+  },
+  {
+    "code": "49-2098.00",
+    "title": "Security and Fire Alarm Systems Installers",
+    "label": "49-2098.00 Security and Fire Alarm Systems Installers"
+  },
+  {
+    "code": "49-3011.00",
+    "title": "Aircraft Mechanics and Service Technicians",
+    "label": "49-3011.00 Aircraft Mechanics and Service Technicians"
+  },
+  {
+    "code": "49-3021.00",
+    "title": "Automotive Body and Related Repairers",
+    "label": "49-3021.00 Automotive Body and Related Repairers"
+  },
+  {
+    "code": "49-3022.00",
+    "title": "Automotive Glass Installers and Repairers",
+    "label": "49-3022.00 Automotive Glass Installers and Repairers"
+  },
+  {
+    "code": "49-3023.00",
+    "title": "Automotive Service Technicians and Mechanics",
+    "label": "49-3023.00 Automotive Service Technicians and Mechanics"
+  },
+  {
+    "code": "49-3031.00",
+    "title": "Bus and Truck Mechanics and Diesel Engine Specialists",
+    "label": "49-3031.00 Bus and Truck Mechanics and Diesel Engine Specialists"
+  },
+  {
+    "code": "49-3041.00",
+    "title": "Farm Equipment Mechanics and Service Technicians",
+    "label": "49-3041.00 Farm Equipment Mechanics and Service Technicians"
+  },
+  {
+    "code": "49-3042.00",
+    "title": "Mobile Heavy Equipment Mechanics  Except Engines",
+    "label": "49-3042.00 Mobile Heavy Equipment Mechanics  Except Engines"
+  },
+  {
+    "code": "49-3043.00",
+    "title": "Rail Car Repairers",
+    "label": "49-3043.00 Rail Car Repairers"
+  },
+  {
+    "code": "49-3051.00",
+    "title": "Motorboat Mechanics and Service Technicians",
+    "label": "49-3051.00 Motorboat Mechanics and Service Technicians"
+  },
+  {
+    "code": "49-3052.00",
+    "title": "Motorcycle Mechanics",
+    "label": "49-3052.00 Motorcycle Mechanics"
+  },
+  {
+    "code": "49-3053.00",
+    "title": "Outdoor Power Equipment and Other Small Engine Mechanics",
+    "label": "49-3053.00 Outdoor Power Equipment and Other Small Engine Mechanics"
+  },
+  {
+    "code": "49-3091.00",
+    "title": "Bicycle Repairers",
+    "label": "49-3091.00 Bicycle Repairers"
+  },
+  {
+    "code": "49-3092.00",
+    "title": "Recreational Vehicle Service Technicians",
+    "label": "49-3092.00 Recreational Vehicle Service Technicians"
+  },
+  {
+    "code": "49-3093.00",
+    "title": "Tire Repairers and Changers",
+    "label": "49-3093.00 Tire Repairers and Changers"
+  },
+  {
+    "code": "49-9011.00",
+    "title": "Mechanical Door Repairers",
+    "label": "49-9011.00 Mechanical Door Repairers"
+  },
+  {
+    "code": "49-9012.00",
+    "title": "Control and Valve Installers and Repairers  Except Mechanical Door",
+    "label": "49-9012.00 Control and Valve Installers and Repairers  Except Mechanical Door"
+  },
+  {
+    "code": "49-9021.00",
+    "title": "Heating  Air Conditioning  and Refrigeration Mechanics and Installers",
+    "label": "49-9021.00 Heating  Air Conditioning  and Refrigeration Mechanics and Installers"
+  },
+  {
+    "code": "49-9031.00",
+    "title": "Home Appliance Repairers",
+    "label": "49-9031.00 Home Appliance Repairers"
+  },
+  {
+    "code": "49-9041.00",
+    "title": "Industrial Machinery Mechanics",
+    "label": "49-9041.00 Industrial Machinery Mechanics"
+  },
+  {
+    "code": "49-9043.00",
+    "title": "Maintenance Workers  Machinery",
+    "label": "49-9043.00 Maintenance Workers  Machinery"
+  },
+  {
+    "code": "49-9044.00",
+    "title": "Millwrights",
+    "label": "49-9044.00 Millwrights"
+  },
+  {
+    "code": "49-9045.00",
+    "title": "Refractory Materials Repairers  Except Brickmasons",
+    "label": "49-9045.00 Refractory Materials Repairers  Except Brickmasons"
+  },
+  {
+    "code": "49-9051.00",
+    "title": "Electrical Power-Line Installers and Repairers",
+    "label": "49-9051.00 Electrical Power-Line Installers and Repairers"
+  },
+  {
+    "code": "49-9052.00",
+    "title": "Telecommunications Line Installers and Repairers",
+    "label": "49-9052.00 Telecommunications Line Installers and Repairers"
+  },
+  {
+    "code": "49-9061.00",
+    "title": "Camera and Photographic Equipment Repairers",
+    "label": "49-9061.00 Camera and Photographic Equipment Repairers"
+  },
+  {
+    "code": "49-9062.00",
+    "title": "Medical Equipment Repairers",
+    "label": "49-9062.00 Medical Equipment Repairers"
+  },
+  {
+    "code": "49-9063.00",
+    "title": "Musical Instrument Repairers and Tuners",
+    "label": "49-9063.00 Musical Instrument Repairers and Tuners"
+  },
+  {
+    "code": "49-9064.00",
+    "title": "Watch and Clock Repairers",
+    "label": "49-9064.00 Watch and Clock Repairers"
+  },
+  {
+    "code": "49-9069.00",
+    "title": "Precision Instrument and Equipment Repairers  All Other",
+    "label": "49-9069.00 Precision Instrument and Equipment Repairers  All Other"
+  },
+  {
+    "code": "49-9071.00",
+    "title": "Maintenance and Repair Workers  General",
+    "label": "49-9071.00 Maintenance and Repair Workers  General"
+  },
+  {
+    "code": "49-9081.00",
+    "title": "Wind Turbine Service Technicians",
+    "label": "49-9081.00 Wind Turbine Service Technicians"
+  },
+  {
+    "code": "49-9091.00",
+    "title": "Coin  Vending  and Amusement Machine Servicers and Repairers",
+    "label": "49-9091.00 Coin  Vending  and Amusement Machine Servicers and Repairers"
+  },
+  {
+    "code": "49-9092.00",
+    "title": "Commercial Divers",
+    "label": "49-9092.00 Commercial Divers"
+  },
+  {
+    "code": "49-9094.00",
+    "title": "Locksmiths and Safe Repairers",
+    "label": "49-9094.00 Locksmiths and Safe Repairers"
+  },
+  {
+    "code": "49-9095.00",
+    "title": "Manufactured Building and Mobile Home Installers",
+    "label": "49-9095.00 Manufactured Building and Mobile Home Installers"
+  },
+  {
+    "code": "49-9096.00",
+    "title": "Riggers",
+    "label": "49-9096.00 Riggers"
+  },
+  {
+    "code": "49-9097.00",
+    "title": "Signal and Track Switch Repairers",
+    "label": "49-9097.00 Signal and Track Switch Repairers"
+  },
+  {
+    "code": "49-9098.00",
+    "title": "Helpers--Installation  Maintenance  and Repair Workers",
+    "label": "49-9098.00 Helpers--Installation  Maintenance  and Repair Workers"
+  },
+  {
+    "code": "49-9099.00",
+    "title": "Installation  Maintenance  and Repair Workers  All Other",
+    "label": "49-9099.00 Installation  Maintenance  and Repair Workers  All Other"
+  },
+  {
+    "code": "49-9099.01",
+    "title": "Geothermal Technicians",
+    "label": "49-9099.01 Geothermal Technicians"
+  },
+  {
+    "code": "51-1011.00",
+    "title": "First-Line Supervisors of Production and Operating Workers",
+    "label": "51-1011.00 First-Line Supervisors of Production and Operating Workers"
+  },
+  {
+    "code": "51-2011.00",
+    "title": "Aircraft Structure  Surfaces  Rigging  and Systems Assemblers",
+    "label": "51-2011.00 Aircraft Structure  Surfaces  Rigging  and Systems Assemblers"
+  },
+  {
+    "code": "51-2021.00",
+    "title": "Coil Winders  Tapers  and Finishers",
+    "label": "51-2021.00 Coil Winders  Tapers  and Finishers"
+  },
+  {
+    "code": "51-2022.00",
+    "title": "Electrical and Electronic Equipment Assemblers",
+    "label": "51-2022.00 Electrical and Electronic Equipment Assemblers"
+  },
+  {
+    "code": "51-2023.00",
+    "title": "Electromechanical Equipment Assemblers",
+    "label": "51-2023.00 Electromechanical Equipment Assemblers"
+  },
+  {
+    "code": "51-2031.00",
+    "title": "Engine and Other Machine Assemblers",
+    "label": "51-2031.00 Engine and Other Machine Assemblers"
+  },
+  {
+    "code": "51-2041.00",
+    "title": "Structural Metal Fabricators and Fitters",
+    "label": "51-2041.00 Structural Metal Fabricators and Fitters"
+  },
+  {
+    "code": "51-2051.00",
+    "title": "Fiberglass Laminators and Fabricators",
+    "label": "51-2051.00 Fiberglass Laminators and Fabricators"
+  },
+  {
+    "code": "51-2061.00",
+    "title": "Timing Device Assemblers and Adjusters",
+    "label": "51-2061.00 Timing Device Assemblers and Adjusters"
+  },
+  {
+    "code": "51-2092.00",
+    "title": "Team Assemblers",
+    "label": "51-2092.00 Team Assemblers"
+  },
+  {
+    "code": "51-2099.00",
+    "title": "Assemblers and Fabricators  All Other",
+    "label": "51-2099.00 Assemblers and Fabricators  All Other"
+  },
+  {
+    "code": "51-3011.00",
+    "title": "Bakers",
+    "label": "51-3011.00 Bakers"
+  },
+  {
+    "code": "51-3021.00",
+    "title": "Butchers and Meat Cutters",
+    "label": "51-3021.00 Butchers and Meat Cutters"
+  },
+  {
+    "code": "51-3022.00",
+    "title": "Meat  Poultry  and Fish Cutters and Trimmers",
+    "label": "51-3022.00 Meat  Poultry  and Fish Cutters and Trimmers"
+  },
+  {
+    "code": "51-3023.00",
+    "title": "Slaughterers and Meat Packers",
+    "label": "51-3023.00 Slaughterers and Meat Packers"
+  },
+  {
+    "code": "51-3091.00",
+    "title": "Food and Tobacco Roasting  Baking  and Drying Machine Operators and Tenders",
+    "label": "51-3091.00 Food and Tobacco Roasting  Baking  and Drying Machine Operators and Tenders"
+  },
+  {
+    "code": "51-3092.00",
+    "title": "Food Batchmakers",
+    "label": "51-3092.00 Food Batchmakers"
+  },
+  {
+    "code": "51-3093.00",
+    "title": "Food Cooking Machine Operators and Tenders",
+    "label": "51-3093.00 Food Cooking Machine Operators and Tenders"
+  },
+  {
+    "code": "51-3099.00",
+    "title": "Food Processing Workers  All Other",
+    "label": "51-3099.00 Food Processing Workers  All Other"
+  },
+  {
+    "code": "51-4021.00",
+    "title": "Extruding and Drawing Machine Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4021.00 Extruding and Drawing Machine Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4022.00",
+    "title": "Forging Machine Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4022.00 Forging Machine Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4023.00",
+    "title": "Rolling Machine Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4023.00 Rolling Machine Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4031.00",
+    "title": "Cutting  Punching  and Press Machine Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4031.00 Cutting  Punching  and Press Machine Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4032.00",
+    "title": "Drilling and Boring Machine Tool Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4032.00 Drilling and Boring Machine Tool Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4033.00",
+    "title": "Grinding  Lapping  Polishing  and Buffing Machine Tool Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4033.00 Grinding  Lapping  Polishing  and Buffing Machine Tool Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4034.00",
+    "title": "Lathe and Turning Machine Tool Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4034.00 Lathe and Turning Machine Tool Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4035.00",
+    "title": "Milling and Planing Machine Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4035.00 Milling and Planing Machine Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4041.00",
+    "title": "Machinists",
+    "label": "51-4041.00 Machinists"
+  },
+  {
+    "code": "51-4051.00",
+    "title": "Metal-Refining Furnace Operators and Tenders",
+    "label": "51-4051.00 Metal-Refining Furnace Operators and Tenders"
+  },
+  {
+    "code": "51-4052.00",
+    "title": "Pourers and Casters  Metal",
+    "label": "51-4052.00 Pourers and Casters  Metal"
+  },
+  {
+    "code": "51-4061.00",
+    "title": "Model Makers  Metal and Plastic",
+    "label": "51-4061.00 Model Makers  Metal and Plastic"
+  },
+  {
+    "code": "51-4062.00",
+    "title": "Patternmakers  Metal and Plastic",
+    "label": "51-4062.00 Patternmakers  Metal and Plastic"
+  },
+  {
+    "code": "51-4071.00",
+    "title": "Foundry Mold and Coremakers",
+    "label": "51-4071.00 Foundry Mold and Coremakers"
+  },
+  {
+    "code": "51-4072.00",
+    "title": "Molding  Coremaking  and Casting Machine Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4072.00 Molding  Coremaking  and Casting Machine Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4081.00",
+    "title": "Multiple Machine Tool Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4081.00 Multiple Machine Tool Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4111.00",
+    "title": "Tool and Die Makers",
+    "label": "51-4111.00 Tool and Die Makers"
+  },
+  {
+    "code": "51-4121.00",
+    "title": "Welders  Cutters  Solderers  and Brazers",
+    "label": "51-4121.00 Welders  Cutters  Solderers  and Brazers"
+  },
+  {
+    "code": "51-4122.00",
+    "title": "Welding  Soldering  and Brazing Machine Setters  Operators  and Tenders",
+    "label": "51-4122.00 Welding  Soldering  and Brazing Machine Setters  Operators  and Tenders"
+  },
+  {
+    "code": "51-4191.00",
+    "title": "Heat Treating Equipment Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4191.00 Heat Treating Equipment Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4192.00",
+    "title": "Layout Workers  Metal and Plastic",
+    "label": "51-4192.00 Layout Workers  Metal and Plastic"
+  },
+  {
+    "code": "51-4193.00",
+    "title": "Plating Machine Setters  Operators  and Tenders  Metal and Plastic",
+    "label": "51-4193.00 Plating Machine Setters  Operators  and Tenders  Metal and Plastic"
+  },
+  {
+    "code": "51-4194.00",
+    "title": "Tool Grinders  Filers  and Sharpeners",
+    "label": "51-4194.00 Tool Grinders  Filers  and Sharpeners"
+  },
+  {
+    "code": "51-4199.00",
+    "title": "Metal Workers and Plastic Workers  All Other",
+    "label": "51-4199.00 Metal Workers and Plastic Workers  All Other"
+  },
+  {
+    "code": "51-5111.00",
+    "title": "Prepress Technicians and Workers",
+    "label": "51-5111.00 Prepress Technicians and Workers"
+  },
+  {
+    "code": "51-5112.00",
+    "title": "Printing Press Operators",
+    "label": "51-5112.00 Printing Press Operators"
+  },
+  {
+    "code": "51-5113.00",
+    "title": "Print Binding and Finishing Workers",
+    "label": "51-5113.00 Print Binding and Finishing Workers"
+  },
+  {
+    "code": "51-6011.00",
+    "title": "Laundry and Dry-Cleaning Workers",
+    "label": "51-6011.00 Laundry and Dry-Cleaning Workers"
+  },
+  {
+    "code": "51-6021.00",
+    "title": "Pressers  Textile  Garment  and Related Materials",
+    "label": "51-6021.00 Pressers  Textile  Garment  and Related Materials"
+  },
+  {
+    "code": "51-6031.00",
+    "title": "Sewing Machine Operators",
+    "label": "51-6031.00 Sewing Machine Operators"
+  },
+  {
+    "code": "51-6041.00",
+    "title": "Shoe and Leather Workers and Repairers",
+    "label": "51-6041.00 Shoe and Leather Workers and Repairers"
+  },
+  {
+    "code": "51-6042.00",
+    "title": "Shoe Machine Operators and Tenders",
+    "label": "51-6042.00 Shoe Machine Operators and Tenders"
+  },
+  {
+    "code": "51-6051.00",
+    "title": "Sewers  Hand",
+    "label": "51-6051.00 Sewers  Hand"
+  },
+  {
+    "code": "51-6052.00",
+    "title": "Tailors  Dressmakers  and Custom Sewers",
+    "label": "51-6052.00 Tailors  Dressmakers  and Custom Sewers"
+  },
+  {
+    "code": "51-6061.00",
+    "title": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+    "label": "51-6061.00 Textile Bleaching and Dyeing Machine Operators and Tenders"
+  },
+  {
+    "code": "51-6062.00",
+    "title": "Textile Cutting Machine Setters  Operators  and Tenders",
+    "label": "51-6062.00 Textile Cutting Machine Setters  Operators  and Tenders"
+  },
+  {
+    "code": "51-6063.00",
+    "title": "Textile Knitting and Weaving Machine Setters  Operators  and Tenders",
+    "label": "51-6063.00 Textile Knitting and Weaving Machine Setters  Operators  and Tenders"
+  },
+  {
+    "code": "51-6064.00",
+    "title": "Textile Winding  Twisting  and Drawing Out Machine Setters  Operators  and Tenders",
+    "label": "51-6064.00 Textile Winding  Twisting  and Drawing Out Machine Setters  Operators  and Tenders"
+  },
+  {
+    "code": "51-6091.00",
+    "title": "Extruding and Forming Machine Setters  Operators  and Tenders  Synthetic and Glass Fibers",
+    "label": "51-6091.00 Extruding and Forming Machine Setters  Operators  and Tenders  Synthetic and Glass Fibers"
+  },
+  {
+    "code": "51-6092.00",
+    "title": "Fabric and Apparel Patternmakers",
+    "label": "51-6092.00 Fabric and Apparel Patternmakers"
+  },
+  {
+    "code": "51-6093.00",
+    "title": "Upholsterers",
+    "label": "51-6093.00 Upholsterers"
+  },
+  {
+    "code": "51-6099.00",
+    "title": "Textile  Apparel  and Furnishings Workers  All Other",
+    "label": "51-6099.00 Textile  Apparel  and Furnishings Workers  All Other"
+  },
+  {
+    "code": "51-7011.00",
+    "title": "Cabinetmakers and Bench Carpenters",
+    "label": "51-7011.00 Cabinetmakers and Bench Carpenters"
+  },
+  {
+    "code": "51-7021.00",
+    "title": "Furniture Finishers",
+    "label": "51-7021.00 Furniture Finishers"
+  },
+  {
+    "code": "51-7031.00",
+    "title": "Model Makers  Wood",
+    "label": "51-7031.00 Model Makers  Wood"
+  },
+  {
+    "code": "51-7032.00",
+    "title": "Patternmakers  Wood",
+    "label": "51-7032.00 Patternmakers  Wood"
+  },
+  {
+    "code": "51-7041.00",
+    "title": "Sawing Machine Setters  Operators  and Tenders  Wood",
+    "label": "51-7041.00 Sawing Machine Setters  Operators  and Tenders  Wood"
+  },
+  {
+    "code": "51-7042.00",
+    "title": "Woodworking Machine Setters  Operators  and Tenders  Except Sawing",
+    "label": "51-7042.00 Woodworking Machine Setters  Operators  and Tenders  Except Sawing"
+  },
+  {
+    "code": "51-7099.00",
+    "title": "Woodworkers  All Other",
+    "label": "51-7099.00 Woodworkers  All Other"
+  },
+  {
+    "code": "51-8011.00",
+    "title": "Nuclear Power Reactor Operators",
+    "label": "51-8011.00 Nuclear Power Reactor Operators"
+  },
+  {
+    "code": "51-8012.00",
+    "title": "Power Distributors and Dispatchers",
+    "label": "51-8012.00 Power Distributors and Dispatchers"
+  },
+  {
+    "code": "51-8013.00",
+    "title": "Power Plant Operators",
+    "label": "51-8013.00 Power Plant Operators"
+  },
+  {
+    "code": "51-8013.03",
+    "title": "Biomass Plant Technicians",
+    "label": "51-8013.03 Biomass Plant Technicians"
+  },
+  {
+    "code": "51-8013.04",
+    "title": "Hydroelectric Plant Technicians",
+    "label": "51-8013.04 Hydroelectric Plant Technicians"
+  },
+  {
+    "code": "51-8021.00",
+    "title": "Stationary Engineers and Boiler Operators",
+    "label": "51-8021.00 Stationary Engineers and Boiler Operators"
+  },
+  {
+    "code": "51-8031.00",
+    "title": "Water and Wastewater Treatment Plant and System Operators",
+    "label": "51-8031.00 Water and Wastewater Treatment Plant and System Operators"
+  },
+  {
+    "code": "51-8091.00",
+    "title": "Chemical Plant and System Operators",
+    "label": "51-8091.00 Chemical Plant and System Operators"
+  },
+  {
+    "code": "51-8092.00",
+    "title": "Gas Plant Operators",
+    "label": "51-8092.00 Gas Plant Operators"
+  },
+  {
+    "code": "51-8093.00",
+    "title": "Petroleum Pump System Operators  Refinery Operators  and Gaugers",
+    "label": "51-8093.00 Petroleum Pump System Operators  Refinery Operators  and Gaugers"
+  },
+  {
+    "code": "51-8099.00",
+    "title": "Plant and System Operators  All Other",
+    "label": "51-8099.00 Plant and System Operators  All Other"
+  },
+  {
+    "code": "51-8099.01",
+    "title": "Biofuels Processing Technicians",
+    "label": "51-8099.01 Biofuels Processing Technicians"
+  },
+  {
+    "code": "51-9011.00",
+    "title": "Chemical Equipment Operators and Tenders",
+    "label": "51-9011.00 Chemical Equipment Operators and Tenders"
+  },
+  {
+    "code": "51-9012.00",
+    "title": "Separating  Filtering  Clarifying  Precipitating  and Still Machine Setters  Operators  and Tenders",
+    "label": "51-9012.00 Separating  Filtering  Clarifying  Precipitating  and Still Machine Setters  Operators  and Tenders"
+  },
+  {
+    "code": "51-9021.00",
+    "title": "Crushing  Grinding  and Polishing Machine Setters  Operators  and Tenders",
+    "label": "51-9021.00 Crushing  Grinding  and Polishing Machine Setters  Operators  and Tenders"
+  },
+  {
+    "code": "51-9022.00",
+    "title": "Grinding and Polishing Workers  Hand",
+    "label": "51-9022.00 Grinding and Polishing Workers  Hand"
+  },
+  {
+    "code": "51-9023.00",
+    "title": "Mixing and Blending Machine Setters  Operators  and Tenders",
+    "label": "51-9023.00 Mixing and Blending Machine Setters  Operators  and Tenders"
+  },
+  {
+    "code": "51-9031.00",
+    "title": "Cutters and Trimmers  Hand",
+    "label": "51-9031.00 Cutters and Trimmers  Hand"
+  },
+  {
+    "code": "51-9032.00",
+    "title": "Cutting and Slicing Machine Setters  Operators  and Tenders",
+    "label": "51-9032.00 Cutting and Slicing Machine Setters  Operators  and Tenders"
+  },
+  {
+    "code": "51-9041.00",
+    "title": "Extruding  Forming  Pressing  and Compacting Machine Setters  Operators  and Tenders",
+    "label": "51-9041.00 Extruding  Forming  Pressing  and Compacting Machine Setters  Operators  and Tenders"
+  },
+  {
+    "code": "51-9051.00",
+    "title": "Furnace  Kiln  Oven  Drier  and Kettle Operators and Tenders",
+    "label": "51-9051.00 Furnace  Kiln  Oven  Drier  and Kettle Operators and Tenders"
+  },
+  {
+    "code": "51-9061.00",
+    "title": "Inspectors  Testers  Sorters  Samplers  and Weighers",
+    "label": "51-9061.00 Inspectors  Testers  Sorters  Samplers  and Weighers"
+  },
+  {
+    "code": "51-9071.00",
+    "title": "Jewelers and Precious Stone and Metal Workers",
+    "label": "51-9071.00 Jewelers and Precious Stone and Metal Workers"
+  },
+  {
+    "code": "51-9071.06",
+    "title": "Gem and Diamond Workers",
+    "label": "51-9071.06 Gem and Diamond Workers"
+  },
+  {
+    "code": "51-9081.00",
+    "title": "Dental Laboratory Technicians",
+    "label": "51-9081.00 Dental Laboratory Technicians"
+  },
+  {
+    "code": "51-9082.00",
+    "title": "Medical Appliance Technicians",
+    "label": "51-9082.00 Medical Appliance Technicians"
+  },
+  {
+    "code": "51-9083.00",
+    "title": "Ophthalmic Laboratory Technicians",
+    "label": "51-9083.00 Ophthalmic Laboratory Technicians"
+  },
+  {
+    "code": "51-9111.00",
+    "title": "Packaging and Filling Machine Operators and Tenders",
+    "label": "51-9111.00 Packaging and Filling Machine Operators and Tenders"
+  },
+  {
+    "code": "51-9123.00",
+    "title": "Painting  Coating  and Decorating Workers",
+    "label": "51-9123.00 Painting  Coating  and Decorating Workers"
+  },
+  {
+    "code": "51-9124.00",
+    "title": "Coating  Painting  and Spraying Machine Setters  Operators  and Tenders",
+    "label": "51-9124.00 Coating  Painting  and Spraying Machine Setters  Operators  and Tenders"
+  },
+  {
+    "code": "51-9141.00",
+    "title": "Semiconductor Processing Technicians",
+    "label": "51-9141.00 Semiconductor Processing Technicians"
+  },
+  {
+    "code": "51-9151.00",
+    "title": "Photographic Process Workers and Processing Machine Operators",
+    "label": "51-9151.00 Photographic Process Workers and Processing Machine Operators"
+  },
+  {
+    "code": "51-9161.00",
+    "title": "Computer Numerically Controlled Tool Operators",
+    "label": "51-9161.00 Computer Numerically Controlled Tool Operators"
+  },
+  {
+    "code": "51-9162.00",
+    "title": "Computer Numerically Controlled Tool Programmers",
+    "label": "51-9162.00 Computer Numerically Controlled Tool Programmers"
+  },
+  {
+    "code": "51-9191.00",
+    "title": "Adhesive Bonding Machine Operators and Tenders",
+    "label": "51-9191.00 Adhesive Bonding Machine Operators and Tenders"
+  },
+  {
+    "code": "51-9192.00",
+    "title": "Cleaning  Washing  and Metal Pickling Equipment Operators and Tenders",
+    "label": "51-9192.00 Cleaning  Washing  and Metal Pickling Equipment Operators and Tenders"
+  },
+  {
+    "code": "51-9193.00",
+    "title": "Cooling and Freezing Equipment Operators and Tenders",
+    "label": "51-9193.00 Cooling and Freezing Equipment Operators and Tenders"
+  },
+  {
+    "code": "51-9194.00",
+    "title": "Etchers and Engravers",
+    "label": "51-9194.00 Etchers and Engravers"
+  },
+  {
+    "code": "51-9195.00",
+    "title": "Molders  Shapers  and Casters  Except Metal and Plastic",
+    "label": "51-9195.00 Molders  Shapers  and Casters  Except Metal and Plastic"
+  },
+  {
+    "code": "51-9195.03",
+    "title": "Stone Cutters and Carvers  Manufacturing",
+    "label": "51-9195.03 Stone Cutters and Carvers  Manufacturing"
+  },
+  {
+    "code": "51-9195.04",
+    "title": "Glass Blowers  Molders  Benders  and Finishers",
+    "label": "51-9195.04 Glass Blowers  Molders  Benders  and Finishers"
+  },
+  {
+    "code": "51-9195.05",
+    "title": "Potters  Manufacturing",
+    "label": "51-9195.05 Potters  Manufacturing"
+  },
+  {
+    "code": "51-9196.00",
+    "title": "Paper Goods Machine Setters  Operators  and Tenders",
+    "label": "51-9196.00 Paper Goods Machine Setters  Operators  and Tenders"
+  },
+  {
+    "code": "51-9197.00",
+    "title": "Tire Builders",
+    "label": "51-9197.00 Tire Builders"
+  },
+  {
+    "code": "51-9198.00",
+    "title": "Helpers--Production Workers",
+    "label": "51-9198.00 Helpers--Production Workers"
+  },
+  {
+    "code": "51-9199.00",
+    "title": "Production Workers  All Other",
+    "label": "51-9199.00 Production Workers  All Other"
+  },
+  {
+    "code": "53-1041.00",
+    "title": "Aircraft Cargo Handling Supervisors",
+    "label": "53-1041.00 Aircraft Cargo Handling Supervisors"
+  },
+  {
+    "code": "53-1042.00",
+    "title": "First-Line Supervisors of Helpers  Laborers  and Material Movers  Hand",
+    "label": "53-1042.00 First-Line Supervisors of Helpers  Laborers  and Material Movers  Hand"
+  },
+  {
+    "code": "53-1042.01",
+    "title": "Recycling Coordinators",
+    "label": "53-1042.01 Recycling Coordinators"
+  },
+  {
+    "code": "53-1043.00",
+    "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators",
+    "label": "53-1043.00 First-Line Supervisors of Material-Moving Machine and Vehicle Operators"
+  },
+  {
+    "code": "53-1044.00",
+    "title": "First-Line Supervisors of Passenger Attendants",
+    "label": "53-1044.00 First-Line Supervisors of Passenger Attendants"
+  },
+  {
+    "code": "53-1049.00",
+    "title": "First-Line Supervisors of Transportation Workers  All Other",
+    "label": "53-1049.00 First-Line Supervisors of Transportation Workers  All Other"
+  },
+  {
+    "code": "53-2011.00",
+    "title": "Airline Pilots  Copilots  and Flight Engineers",
+    "label": "53-2011.00 Airline Pilots  Copilots  and Flight Engineers"
+  },
+  {
+    "code": "53-2012.00",
+    "title": "Commercial Pilots",
+    "label": "53-2012.00 Commercial Pilots"
+  },
+  {
+    "code": "53-2021.00",
+    "title": "Air Traffic Controllers",
+    "label": "53-2021.00 Air Traffic Controllers"
+  },
+  {
+    "code": "53-2022.00",
+    "title": "Airfield Operations Specialists",
+    "label": "53-2022.00 Airfield Operations Specialists"
+  },
+  {
+    "code": "53-2031.00",
+    "title": "Flight Attendants",
+    "label": "53-2031.00 Flight Attendants"
+  },
+  {
+    "code": "53-3011.00",
+    "title": "Ambulance Drivers and Attendants  Except Emergency Medical Technicians",
+    "label": "53-3011.00 Ambulance Drivers and Attendants  Except Emergency Medical Technicians"
+  },
+  {
+    "code": "53-3031.00",
+    "title": "Driver-Sales Workers",
+    "label": "53-3031.00 Driver-Sales Workers"
+  },
+  {
+    "code": "53-3032.00",
+    "title": "Heavy and Tractor-Trailer Truck Drivers",
+    "label": "53-3032.00 Heavy and Tractor-Trailer Truck Drivers"
+  },
+  {
+    "code": "53-3033.00",
+    "title": "Light Truck Drivers",
+    "label": "53-3033.00 Light Truck Drivers"
+  },
+  {
+    "code": "53-3051.00",
+    "title": "Bus Drivers  School",
+    "label": "53-3051.00 Bus Drivers  School"
+  },
+  {
+    "code": "53-3052.00",
+    "title": "Bus Drivers  Transit and Intercity",
+    "label": "53-3052.00 Bus Drivers  Transit and Intercity"
+  },
+  {
+    "code": "53-3053.00",
+    "title": "Shuttle Drivers and Chauffeurs",
+    "label": "53-3053.00 Shuttle Drivers and Chauffeurs"
+  },
+  {
+    "code": "53-3054.00",
+    "title": "Taxi Drivers",
+    "label": "53-3054.00 Taxi Drivers"
+  },
+  {
+    "code": "53-3099.00",
+    "title": "Motor Vehicle Operators  All Other",
+    "label": "53-3099.00 Motor Vehicle Operators  All Other"
+  },
+  {
+    "code": "53-4011.00",
+    "title": "Locomotive Engineers",
+    "label": "53-4011.00 Locomotive Engineers"
+  },
+  {
+    "code": "53-4013.00",
+    "title": "Rail Yard Engineers  Dinkey Operators  and Hostlers",
+    "label": "53-4013.00 Rail Yard Engineers  Dinkey Operators  and Hostlers"
+  },
+  {
+    "code": "53-4022.00",
+    "title": "Railroad Brake  Signal  and Switch Operators and Locomotive Firers",
+    "label": "53-4022.00 Railroad Brake  Signal  and Switch Operators and Locomotive Firers"
+  },
+  {
+    "code": "53-4031.00",
+    "title": "Railroad Conductors and Yardmasters",
+    "label": "53-4031.00 Railroad Conductors and Yardmasters"
+  },
+  {
+    "code": "53-4041.00",
+    "title": "Subway and Streetcar Operators",
+    "label": "53-4041.00 Subway and Streetcar Operators"
+  },
+  {
+    "code": "53-4099.00",
+    "title": "Rail Transportation Workers  All Other",
+    "label": "53-4099.00 Rail Transportation Workers  All Other"
+  },
+  {
+    "code": "53-5011.00",
+    "title": "Sailors and Marine Oilers",
+    "label": "53-5011.00 Sailors and Marine Oilers"
+  },
+  {
+    "code": "53-5021.00",
+    "title": "Captains  Mates  and Pilots of Water Vessels",
+    "label": "53-5021.00 Captains  Mates  and Pilots of Water Vessels"
+  },
+  {
+    "code": "53-5022.00",
+    "title": "Motorboat Operators",
+    "label": "53-5022.00 Motorboat Operators"
+  },
+  {
+    "code": "53-5031.00",
+    "title": "Ship Engineers",
+    "label": "53-5031.00 Ship Engineers"
+  },
+  {
+    "code": "53-6011.00",
+    "title": "Bridge and Lock Tenders",
+    "label": "53-6011.00 Bridge and Lock Tenders"
+  },
+  {
+    "code": "53-6021.00",
+    "title": "Parking Attendants",
+    "label": "53-6021.00 Parking Attendants"
+  },
+  {
+    "code": "53-6031.00",
+    "title": "Automotive and Watercraft Service Attendants",
+    "label": "53-6031.00 Automotive and Watercraft Service Attendants"
+  },
+  {
+    "code": "53-6032.00",
+    "title": "Aircraft Service Attendants",
+    "label": "53-6032.00 Aircraft Service Attendants"
+  },
+  {
+    "code": "53-6041.00",
+    "title": "Traffic Technicians",
+    "label": "53-6041.00 Traffic Technicians"
+  },
+  {
+    "code": "53-6051.00",
+    "title": "Transportation Inspectors",
+    "label": "53-6051.00 Transportation Inspectors"
+  },
+  {
+    "code": "53-6051.01",
+    "title": "Aviation Inspectors",
+    "label": "53-6051.01 Aviation Inspectors"
+  },
+  {
+    "code": "53-6051.07",
+    "title": "Transportation Vehicle  Equipment and Systems Inspectors  Except Aviation",
+    "label": "53-6051.07 Transportation Vehicle  Equipment and Systems Inspectors  Except Aviation"
+  },
+  {
+    "code": "53-6061.00",
+    "title": "Passenger Attendants",
+    "label": "53-6061.00 Passenger Attendants"
+  },
+  {
+    "code": "53-6099.00",
+    "title": "Transportation Workers  All Other",
+    "label": "53-6099.00 Transportation Workers  All Other"
+  },
+  {
+    "code": "53-7011.00",
+    "title": "Conveyor Operators and Tenders",
+    "label": "53-7011.00 Conveyor Operators and Tenders"
+  },
+  {
+    "code": "53-7021.00",
+    "title": "Crane and Tower Operators",
+    "label": "53-7021.00 Crane and Tower Operators"
+  },
+  {
+    "code": "53-7031.00",
+    "title": "Dredge Operators",
+    "label": "53-7031.00 Dredge Operators"
+  },
+  {
+    "code": "53-7041.00",
+    "title": "Hoist and Winch Operators",
+    "label": "53-7041.00 Hoist and Winch Operators"
+  },
+  {
+    "code": "53-7051.00",
+    "title": "Industrial Truck and Tractor Operators",
+    "label": "53-7051.00 Industrial Truck and Tractor Operators"
+  },
+  {
+    "code": "53-7061.00",
+    "title": "Cleaners of Vehicles and Equipment",
+    "label": "53-7061.00 Cleaners of Vehicles and Equipment"
+  },
+  {
+    "code": "53-7062.00",
+    "title": "Laborers and Freight  Stock  and Material Movers  Hand",
+    "label": "53-7062.00 Laborers and Freight  Stock  and Material Movers  Hand"
+  },
+  {
+    "code": "53-7062.04",
+    "title": "Recycling and Reclamation Workers",
+    "label": "53-7062.04 Recycling and Reclamation Workers"
+  },
+  {
+    "code": "53-7063.00",
+    "title": "Machine Feeders and Offbearers",
+    "label": "53-7063.00 Machine Feeders and Offbearers"
+  },
+  {
+    "code": "53-7064.00",
+    "title": "Packers and Packagers  Hand",
+    "label": "53-7064.00 Packers and Packagers  Hand"
+  },
+  {
+    "code": "53-7065.00",
+    "title": "Stockers and Order Fillers",
+    "label": "53-7065.00 Stockers and Order Fillers"
+  },
+  {
+    "code": "53-7071.00",
+    "title": "Gas Compressor and Gas Pumping Station Operators",
+    "label": "53-7071.00 Gas Compressor and Gas Pumping Station Operators"
+  },
+  {
+    "code": "53-7072.00",
+    "title": "Pump Operators  Except Wellhead Pumpers",
+    "label": "53-7072.00 Pump Operators  Except Wellhead Pumpers"
+  },
+  {
+    "code": "53-7073.00",
+    "title": "Wellhead Pumpers",
+    "label": "53-7073.00 Wellhead Pumpers"
+  },
+  {
+    "code": "53-7081.00",
+    "title": "Refuse and Recyclable Material Collectors",
+    "label": "53-7081.00 Refuse and Recyclable Material Collectors"
+  },
+  {
+    "code": "53-7121.00",
+    "title": "Tank Car  Truck  and Ship Loaders",
+    "label": "53-7121.00 Tank Car  Truck  and Ship Loaders"
+  },
+  {
+    "code": "53-7199.00",
+    "title": "Material Moving Workers  All Other",
+    "label": "53-7199.00 Material Moving Workers  All Other"
+  }
+]
